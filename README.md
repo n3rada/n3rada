@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Thanks for viewing my GitHub !
 
-- 🔺 "I use Arch btw"
+- 🔺 I use Arch btw
 - 📫 How to reach me: /dev/null or you'll find
 - 💬 Favorite Quote: You cannot change the past but you can sculpt your future
 
