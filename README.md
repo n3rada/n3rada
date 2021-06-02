@@ -25,5 +25,4 @@ Thanks for viewing my GitHub !
 
 Not many people GPG sign commits (Nor do I) ! Learn to do it [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=n3rada&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rada&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=n3rada&theme=omni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
