@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello, Welcome to my README
+
+Thanks for viewing my GitHub !
+
+- 🔺 "I use Arch btw"
+- 📫 How to reach me: /dev/null or you'll find
+- 💬 Favorite Quote: You cannot change the past but you can sculpt your future
+
+Not many people GPG sign commits (Nor do I) ! Learn to do it [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=n3rada&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rada&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
