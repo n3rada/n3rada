@@ -21,6 +21,4 @@ Thanks for viewing my GitHub !
 - 📫 How to reach me: /dev/null or you'll find
 - 💬 Favorite Quote: You cannot change the past but you can sculpt your future
 
-Not many people GPG sign commits (Nor do I) ! Learn to do it [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=n3rada&theme=omni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
