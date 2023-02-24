@@ -20,5 +20,3 @@ Thanks for viewing my GitHub !
 - 🌱 I’m currently learning something, for sure.
 - 📫 How to reach me: /dev/null or you'll find
 - 💬 Favorite Quote: You cannot change the past but you can sculpt your future
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=n3rada&theme=omni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
