@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 ### Hello, Welcome to my README
 
 Thanks for viewing my GitHub !
-
-- 🌱 I’m currently learning something, for sure.
 - 📫 How to reach me: /dev/null or you'll find
 - 💬 Favorite Quote: You cannot change the past but you can sculpt your future
