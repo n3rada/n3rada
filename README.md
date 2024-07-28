@@ -15,18 +15,4 @@
 <div align="center" style="padding: 10px;">
 <em>"You cannot change the past but you can sculpt your future"</em>
 </div>
-
-</td>
-<td valign="top" width="50%">
-
-<div align="center">
-<a href="https://github.com/n3rada/">
-  <img src="https://github-readme-stats.vercel.app/api?username=n3rada&include_all_commits=true&count_private=true&show_icons=true&line_height=20&border_color=7851A9&bg_color=0D1117&title_color=7A7ADB&icon_color=7A7ADB" width="450"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3rada&layout=compact&theme=react&border_color=7851A9&bg_color=0D1117&title_color=7A7ADB" width="450"/>
-</a>
-</div>
-
-</td>
-</tr>
 </table>
