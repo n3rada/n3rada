@@ -6,7 +6,6 @@ Commits:
 
 - <a href="https://github.com/n3rada/DirtyPipe/commit/08c8107b70d11a608c3755af04a5729a9f36cb3a">08c8107</a>: 🕊️
 - <a href="https://github.com/n3rada/Invoke-KeePassBackup/commit/a469c7352e00ccdbb618523a1f64fbbabe8f1f6c">a469c73</a>: 🕊️
-- <a href="https://github.com/ungdev/ScribUTT/commit/d0e79406709ab3232be4bfcd4a23d29510d35f92">d0e7940</a>: 👾
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

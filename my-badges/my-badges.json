@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/ungdev/ScribUTT/commit/afd1218b77772d836060f248551777349579f18b\"><strong>a</strong>fd1218b77772d836060f248551777349579f18b</a>",
+    "body": "- <a href=\"https://github.com/ungdev/ScribUTT/commit/a5de7e253b2f8c352dd4a0349033a9717910571e\"><strong>a</strong>5de7e253b2f8c352dd4a0349033a9717910571e</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -17,14 +17,14 @@
     "id": "emoji-only-commit",
     "tier": 0,
     "desc": "I used only emojis in my commit message.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/DirtyPipe/commit/08c8107b70d11a608c3755af04a5729a9f36cb3a\">08c8107</a>: 🕊️\n- <a href=\"https://github.com/n3rada/Invoke-KeePassBackup/commit/a469c7352e00ccdbb618523a1f64fbbabe8f1f6c\">a469c73</a>: 🕊️\n- <a href=\"https://github.com/ungdev/ScribUTT/commit/d0e79406709ab3232be4bfcd4a23d29510d35f92\">d0e7940</a>: 👾",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/DirtyPipe/commit/08c8107b70d11a608c3755af04a5729a9f36cb3a\">08c8107</a>: 🕊️\n- <a href=\"https://github.com/n3rada/Invoke-KeePassBackup/commit/a469c7352e00ccdbb618523a1f64fbbabe8f1f6c\">a469c73</a>: 🕊️",
     "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 54 times)\n2. readme.md (used 31 times)\n3. and (used 24 times)\n4. de (used 24 times)\n5. from (used 22 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 40 times)\n2. readme.md (used 31 times)\n3. from (used 20 times)\n4. add (used 17 times)\n5. to (used 16 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
