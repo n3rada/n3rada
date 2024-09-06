@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 40 times)\n2. readme.md (used 31 times)\n3. from (used 20 times)\n4. to (used 15 times)\n5. add (used 14 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 42 times)\n2. readme.md (used 32 times)\n3. from (used 20 times)\n4. to (used 15 times)\n5. add (used 14 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -75,5 +75,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ungdev/ScribUTT/commit/bfb5d4f597638cc76ed901e5d80413a07fef083b\">bfb5d4f</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/e2f54857e48f27d1ec5dc19e816a010a5973c6e5\">e2f5485</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   }
 ]
