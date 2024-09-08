@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. readme.md (used 33 times)
 3. from (used 21 times)
 4. to (used 16 times)
-5. add (used 14 times)
+5. add (used 15 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
