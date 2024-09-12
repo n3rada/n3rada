@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ungdev/ScribUTT">ungdev/ScribUTT: ★68</a>
+* <a href="https://github.com/ungdev/ScribUTT">ungdev/ScribUTT: ★69</a>
 * <a href="https://github.com/theogobinet/Katsumi">theogobinet/Katsumi: ★21</a>
 * <a href="https://github.com/n3rada/DirtyPipe">n3rada/DirtyPipe: ★7</a>
 * <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★4</a>
