@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 45 times)\n2. readme.md (used 33 times)\n3. from (used 21 times)\n4. to (used 18 times)\n5. add (used 17 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 46 times)\n2. readme.md (used 33 times)\n3. from (used 21 times)\n4. to (used 18 times)\n5. add (used 17 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ungdev/ScribUTT\">ungdev/ScribUTT: ★70</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★9</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★4</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/BloodHound.py\">n3rada/BloodHound.py: ★2</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★1</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ungdev/ScribUTT\">ungdev/ScribUTT: ★70</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★9</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★5</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/BloodHound.py\">n3rada/BloodHound.py: ★2</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★1</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
