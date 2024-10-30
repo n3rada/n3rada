@@ -10,7 +10,7 @@
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/ungdev/ScribUTT/commit/abf4fe910116a0ba1a4cc1472d40a0e541e1e601\"><strong>ab</strong>f4fe910116a0ba1a4cc1472d40a0e541e1e601</a>",
+    "body": "- <a href=\"https://github.com/n3rada/iat-address-locator/commit/abfc518d04f644f97c693e581c747ca82c929cef\"><strong>ab</strong>fc518d04f644f97c693e581c747ca82c929cef</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 51 times)\n2. readme.md (used 38 times)\n3. from (used 21 times)\n4. to (used 18 times)\n5. add (used 17 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 69 times)\n2. readme.md (used 50 times)\n3. from (used 21 times)\n4. add (used 18 times)\n5. to (used 18 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/IAT-Address-Locator/commit/9e8d166a98e7eae9743bc23cbe117763ca5d459d\">9e8d166</a>\n- <a href=\"https://github.com/n3rada/IAT-Address-Locator/commit/f44ae6d811b36a1aa69d7d095bcb4b01dcb78789\">f44ae6d</a>\n- <a href=\"https://github.com/n3rada/IAT-Address-Locator/commit/dafe6207915f962ec7e7e4bdb85b2bfb0ab9e30a\">dafe620</a>\n- <a href=\"https://github.com/n3rada/IAT-Address-Locator/commit/b4549f4aa2f88e8274dcabdcad7fcc7780e17e92\">b4549f4</a>\n- <a href=\"https://github.com/n3rada/IAT-Address-Locator/commit/e305493f7c575e12d78e976fcf9896c9bcfe2586\">e305493</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/b63affd5fe9b0963644633e04382ccd0f1e7e02a\">b63affd</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/iat-address-locator/commit/9e8d166a98e7eae9743bc23cbe117763ca5d459d\">9e8d166</a>\n- <a href=\"https://github.com/n3rada/iat-address-locator/commit/f44ae6d811b36a1aa69d7d095bcb4b01dcb78789\">f44ae6d</a>\n- <a href=\"https://github.com/n3rada/iat-address-locator/commit/dafe6207915f962ec7e7e4bdb85b2bfb0ab9e30a\">dafe620</a>\n- <a href=\"https://github.com/n3rada/iat-address-locator/commit/b4549f4aa2f88e8274dcabdcad7fcc7780e17e92\">b4549f4</a>\n- <a href=\"https://github.com/n3rada/iat-address-locator/commit/e305493f7c575e12d78e976fcf9896c9bcfe2586\">e305493</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/b63affd5fe9b0963644633e04382ccd0f1e7e02a\">b63affd</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
