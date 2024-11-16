@@ -8,8 +8,8 @@ Commits:
 - <a href="https://github.com/n3rada/ropcatalog/commit/32ee7c2cd7350a765f0986e2a893fd33f7efd892">32ee7c2</a>
 - <a href="https://github.com/n3rada/ropcatalog/commit/b7f58577bc1fa06e0fca89bb50543d0add86906c">b7f5857</a>
 - <a href="https://github.com/n3rada/ropcatalog/commit/5fce2e85c77f2045aa348fae4711e5b5014c0e2a">5fce2e8</a>
-- <a href="https://github.com/n3rada/iat-address-locator/commit/54b125f7f41c3fa58604f8c91015397d754e4c6e">54b125f</a>
-- <a href="https://github.com/n3rada/iat-address-locator/commit/8d7b8e4db972aee60dd4285af9bb4283b14d3a20">8d7b8e4</a>
+- <a href="https://github.com/n3rada/SharpNotesReader/commit/b63affd5fe9b0963644633e04382ccd0f1e7e02a">b63affd</a>
+- <a href="https://github.com/n3rada/SharpNotesReader/commit/7038ea85381158f2e6da249e69bd8cd80b7f4dde">7038ea8</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
