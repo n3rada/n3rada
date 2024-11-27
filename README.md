@@ -4,8 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=7851A9&center=true&vCenter=true&random=false&width=435&lines=n3rada;Engineer" alt="Typing SVG" /></a>
 
 <!-- my-badges start -->
-<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
-
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/emoji-only-commit.md"><img src="https://my-badges.github.io/my-badges/emoji-only-commit.png" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
