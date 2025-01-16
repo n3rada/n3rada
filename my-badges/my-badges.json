@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 54 times)\n2. readme.md (used 36 times)\n3. add (used 17 times)\n4. merge (used 15 times)\n5. pull (used 13 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 55 times)\n2. readme.md (used 37 times)\n3. add (used 17 times)\n4. merge (used 15 times)\n5. pull (used 13 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/1464fb080f90039867acf46d13a10afbe2c98145\">1464fb0</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/32ee7c2cd7350a765f0986e2a893fd33f7efd892\">32ee7c2</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/b7f58577bc1fa06e0fca89bb50543d0add86906c\">b7f5857</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/5fce2e85c77f2045aa348fae4711e5b5014c0e2a\">5fce2e8</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/b63affd5fe9b0963644633e04382ccd0f1e7e02a\">b63affd</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/7038ea85381158f2e6da249e69bd8cd80b7f4dde\">7038ea8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/n3rada/commit/ab8af7a5ed2f581ab720b031643b545430ea6eee\">ab8af7a</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/1464fb080f90039867acf46d13a10afbe2c98145\">1464fb0</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/32ee7c2cd7350a765f0986e2a893fd33f7efd892\">32ee7c2</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/b7f58577bc1fa06e0fca89bb50543d0add86906c\">b7f5857</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/5fce2e85c77f2045aa348fae4711e5b5014c0e2a\">5fce2e8</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/b63affd5fe9b0963644633e04382ccd0f1e7e02a\">b63affd</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -68,5 +68,12 @@
     "desc": "Happy February 29th! I committed on a Leap Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ungdev/ScribUTT/commit/feae8e2f2ea01a517328164f1accc13fd41c5e8d\">feae8e2</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/98ea3a84ab3e12d07608a6fd2f6e2f50f167b692\">98ea3a8</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/27edb5e0564458d304c474e399489b422b502a91\">27edb5e</a>\n- <a href=\"https://github.com/ungdev/ScribUTT/commit/883d6e2e0b7518c3392dd6c22eeb7936deab622b\">883d6e2</a>\n- <a href=\"https://github.com/ungdev/ScribUTT/commit/fb9d0cae4d99c1f59102c1b9de29b01e35aa0a53\">fb9d0ca</a>",
     "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/n3rada/n3rada/commit/ab8af7a5ed2f581ab720b031643b545430ea6eee\"><strong>ab</strong>8af7a5ed2f581ab720b031643b545430ea6eee</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   }
 ]
