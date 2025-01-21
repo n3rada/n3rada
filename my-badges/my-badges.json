@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 55 times)\n2. readme.md (used 37 times)\n3. add (used 17 times)\n4. merge (used 15 times)\n5. pull (used 13 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 108 times)\n2. readme.md (used 76 times)\n3. add (used 29 times)\n4. merge (used 20 times)\n5. pull (used 13 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -38,21 +38,21 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ungdev/ScribUTT\">ungdev/ScribUTT: ★70</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★9</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★6</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★5</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/BloodHound.py\">n3rada/BloodHound.py: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ungdev/ScribUTT\">ungdev/ScribUTT: ★70</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★9</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★6</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★5</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/BloodHound.py\">n3rada/BloodHound.py: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/bcd258b73af6302c1e6d8b68787cc7dcac607669\">bcd258b</a>\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/13b73dcfd1d2dcb139dd6d0116260da8b70deb60\">13b73dc</a>\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/6fa7e5268d3e013aa0c24e74caf37143779b4704\">6fa7e52</a>\n- <a href=\"https://github.com/n3rada/SQLRecon/commit/7c2e43e6c7c87bd107c07c565fe03c9a0d1ccd5e\">7c2e43e</a>\n- <a href=\"https://github.com/n3rada/SQLRecon/commit/67d82e55be33d434e5491f15679c6bad7e02b6c7\">67d82e5</a>\n- <a href=\"https://github.com/n3rada/SQLRecon/commit/a0fd15a6d1052a63b91122ee35ca7c064016bb13\">a0fd15a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9ad1df2456b319808999cb30be92c0a7d0697376\">9ad1df2</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/ea722197236fc20d7e79542ef90b40c058603ff8\">ea72219</a>\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/bcd258b73af6302c1e6d8b68787cc7dcac607669\">bcd258b</a>\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/13b73dcfd1d2dcb139dd6d0116260da8b70deb60\">13b73dc</a>\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/6fa7e5268d3e013aa0c24e74caf37143779b4704\">6fa7e52</a>\n- <a href=\"https://github.com/n3rada/SQLRecon/commit/7c2e43e6c7c87bd107c07c565fe03c9a0d1ccd5e\">7c2e43e</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/n3rada/commit/ab8af7a5ed2f581ab720b031643b545430ea6eee\">ab8af7a</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/1464fb080f90039867acf46d13a10afbe2c98145\">1464fb0</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/32ee7c2cd7350a765f0986e2a893fd33f7efd892\">32ee7c2</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/b7f58577bc1fa06e0fca89bb50543d0add86906c\">b7f5857</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/5fce2e85c77f2045aa348fae4711e5b5014c0e2a\">5fce2e8</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/b63affd5fe9b0963644633e04382ccd0f1e7e02a\">b63affd</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0df2014fc53a1a64ca4c618df1fc58948414bf33\">0df2014</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/49e6b73e133fee7c9f8d793218e83bbe890f3c5f\">49e6b73</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/98726d01a9bbd73d4c07bb36ad12ea9f47437157\">98726d0</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/dc99847086015041c67f9561bcaa6fdc4320740f\">dc99847</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a263682e9b5d6d67ffdad1589ab67ac8ca21a829\">a263682</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/e8d14b630af96b8c981dc07f86b4de93d4184db1\">e8d14b6</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -75,5 +75,12 @@
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/n3rada/n3rada/commit/ab8af7a5ed2f581ab720b031643b545430ea6eee\"><strong>ab</strong>8af7a5ed2f581ab720b031643b545430ea6eee</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/n3rada/MSSQLand/commit/28713abcbe79ce07acd22e2f4ff59f5f09cafea6\">28713abcbe79ce07acd22e2f4ff59f5f09<strong>cafe</strong>a6</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   }
 ]
