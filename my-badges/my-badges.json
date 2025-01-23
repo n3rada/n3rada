@@ -24,7 +24,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/epi052/feroxbuster/issues/997\">#997</a>: [FEATURE REQUEST] Adding `sitemap.xml` for link extraction\n- <a href=\"https://github.com/sliverarmory/armory/issues/58\">#58</a>: Replacing `sharpsh` with `powerspace`\n- <a href=\"https://github.com/byt3bl33d3r/CrackMapExec/issues/752\">#752</a>: [module] [zerologon] Could I add an auto exploiter ?\n- <a href=\"https://github.com/BishopFox/sliver/issues/1396\">#1396</a>: Homemade hash dumping 🪓\n- <a href=\"https://github.com/BishopFox/sliver/issues/1334\">#1334</a>: Migrate doesn't take SGN into account\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/epi052/feroxbuster/issues/997\">#997</a>: [FEATURE REQUEST] Adding `sitemap.xml` for link extraction\n- <a href=\"https://github.com/sliverarmory/armory/issues/58\">#58</a>: Replacing `sharpsh` with `powerspace`\n- <a href=\"https://github.com/sliverarmory/armory/issues/65\">#65</a>: Adding `MSSQLand` tool for better MS SQL multi-hop impersonation\n- <a href=\"https://github.com/byt3bl33d3r/CrackMapExec/issues/752\">#752</a>: [module] [zerologon] Could I add an auto exploiter ?\n- <a href=\"https://github.com/BishopFox/sliver/issues/1396\">#1396</a>: Homemade hash dumping 🪓\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ungdev/ScribUTT\">ungdev/ScribUTT: ★70</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★9</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★6</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★5</a>\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★5</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/BloodHound.py\">n3rada/BloodHound.py: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ungdev/ScribUTT\">ungdev/ScribUTT: ★70</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★9</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★6</a>\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★6</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★5</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/BloodHound.py\">n3rada/BloodHound.py: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
