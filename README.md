@@ -26,7 +26,7 @@ Programming is mostly about thinking. Hacking is about thinking one step ahead.
 </div>
 
 <div style="padding: 10px;">
-<em>"You cannot change the past but you can sculpt your future"</em>
+<em>You cannot change the past but you can sculpt your future</em>
 </div>
 
 </div>
