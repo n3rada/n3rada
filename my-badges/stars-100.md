@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/n3rada/DirtyPipe">n3rada/DirtyPipe: ★9</a>
 * <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★7</a>
 * <a href="https://github.com/n3rada/MSSQLand">n3rada/MSSQLand: ★7</a>
-* <a href="https://github.com/n3rada/powerspace">n3rada/powerspace: ★5</a>
+* <a href="https://github.com/n3rada/powerspace">n3rada/powerspace: ★6</a>
 * <a href="https://github.com/n3rada/Invoke-KeePassBackup">n3rada/Invoke-KeePassBackup: ★2</a>
 * <a href="https://github.com/n3rada/BloodHound.py">n3rada/BloodHound.py: ★2</a>
 * <a href="https://github.com/n3rada/advisories">n3rada/advisories: ★1</a>
