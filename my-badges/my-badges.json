@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 134 times)\n2. readme.md (used 97 times)\n3. add (used 29 times)\n4. merge (used 21 times)\n5. pull (used 13 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 135 times)\n2. readme.md (used 97 times)\n3. add (used 30 times)\n4. merge (used 21 times)\n5. pull (used 13 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ungdev/ScribUTT\">ungdev/ScribUTT: ★70</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★11</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★9</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★8</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/BloodHound.py\">n3rada/BloodHound.py: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ungdev/ScribUTT\">ungdev/ScribUTT: ★70</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★11</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★9</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★8</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/BloodHound.py\">n3rada/BloodHound.py: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/e48177314f4cc3616bb0577b00d566258cb68aa0\">e481773</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0df2014fc53a1a64ca4c618df1fc58948414bf33\">0df2014</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/49e6b73e133fee7c9f8d793218e83bbe890f3c5f\">49e6b73</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/98726d01a9bbd73d4c07bb36ad12ea9f47437157\">98726d0</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/dc99847086015041c67f9561bcaa6fdc4320740f\">dc99847</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a263682e9b5d6d67ffdad1589ab67ac8ca21a829\">a263682</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/redteam-research/commit/2b1cdcb67a490880ce0b0714983cbd707cb8b770\">2b1cdcb</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9f164e72edaa69fa9e8cd90fc54e471f2d317e16\">9f164e7</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/e48177314f4cc3616bb0577b00d566258cb68aa0\">e481773</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0df2014fc53a1a64ca4c618df1fc58948414bf33\">0df2014</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/49e6b73e133fee7c9f8d793218e83bbe890f3c5f\">49e6b73</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/98726d01a9bbd73d4c07bb36ad12ea9f47437157\">98726d0</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
