@@ -1,6 +1,6 @@
 # 👀
 
-Programming is mostly about thinking. Hacking is about thinking one step ahead.
+Programming is mostly about thinking. Hacking is about thinking one step ahead. 
 
 <div align="center">
 
