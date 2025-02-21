@@ -4,7 +4,7 @@ Programming is mostly about thinking. Hacking is about thinking one step ahead.
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=7851A9&center=true&vCenter=true&random=false&width=435&lines=n3rada;Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=7851A9&center=true&vCenter=true&random=false&width=435&lines=n3rada;Security Engineer" alt="Typing SVG" /></a>
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
