@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 139 times)\n2. readme.md (used 100 times)\n3. add (used 30 times)\n4. merge (used 21 times)\n5. pull (used 13 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 140 times)\n2. readme.md (used 100 times)\n3. add (used 33 times)\n4. merge (used 22 times)\n5. pull (used 13 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9ad1df2456b319808999cb30be92c0a7d0697376\">9ad1df2</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/ea722197236fc20d7e79542ef90b40c058603ff8\">ea72219</a>\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/bcd258b73af6302c1e6d8b68787cc7dcac607669\">bcd258b</a>\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/13b73dcfd1d2dcb139dd6d0116260da8b70deb60\">13b73dc</a>\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/6fa7e5268d3e013aa0c24e74caf37143779b4704\">6fa7e52</a>\n- <a href=\"https://github.com/n3rada/advisories/commit/d3c4a8c89a9400b776365acc21b8500037ec9466\">d3c4a8c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/be1eedd4098b352200eb4d7eb1272050cd843d87\">be1eedd</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9ad1df2456b319808999cb30be92c0a7d0697376\">9ad1df2</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/ea722197236fc20d7e79542ef90b40c058603ff8\">ea72219</a>\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/bcd258b73af6302c1e6d8b68787cc7dcac607669\">bcd258b</a>\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/13b73dcfd1d2dcb139dd6d0116260da8b70deb60\">13b73dc</a>\n- <a href=\"https://github.com/n3rada/cvss-v4-calculator/commit/6fa7e5268d3e013aa0c24e74caf37143779b4704\">6fa7e52</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
