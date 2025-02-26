@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 140 times)\n2. readme.md (used 100 times)\n3. add (used 33 times)\n4. merge (used 22 times)\n5. pull (used 13 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 160 times)\n2. readme.md (used 102 times)\n3. add (used 34 times)\n4. merge (used 23 times)\n5. pyproject.toml (used 15 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/redteam-research/commit/2b1cdcb67a490880ce0b0714983cbd707cb8b770\">2b1cdcb</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9f164e72edaa69fa9e8cd90fc54e471f2d317e16\">9f164e7</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/e48177314f4cc3616bb0577b00d566258cb68aa0\">e481773</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0df2014fc53a1a64ca4c618df1fc58948414bf33\">0df2014</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/49e6b73e133fee7c9f8d793218e83bbe890f3c5f\">49e6b73</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/98726d01a9bbd73d4c07bb36ad12ea9f47437157\">98726d0</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/smbclient-ng/commit/2be01681bce17e25b9e26ebe52a0efd50446099d\">2be0168</a>\n- <a href=\"https://github.com/n3rada/Coercer/commit/44f7ccf7a32c226f69d4c90a05315cba94b37768\">44f7ccf</a>\n- <a href=\"https://github.com/n3rada/smbclient-ng/commit/2d001e6b7f0b616daa9d549c1ab2160d52b581b1\">2d001e6</a>\n- <a href=\"https://github.com/n3rada/smbclient-ng/commit/140bdbb1334fc8660e65908bee4097cf1fca1080\">140bdbb</a>\n- <a href=\"https://github.com/n3rada/redteam-research/commit/2b1cdcb67a490880ce0b0714983cbd707cb8b770\">2b1cdcb</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9f164e72edaa69fa9e8cd90fc54e471f2d317e16\">9f164e7</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -96,5 +96,12 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/lsassy/commit/783d4b47105fce24f84e87703cf598dc1a2f2ada\">783d4b4</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
   }
 ]
