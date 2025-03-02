@@ -14,6 +14,7 @@ Repos:
 * <a href="https://github.com/n3rada/BloodHound.py">n3rada/BloodHound.py: ★2</a>
 * <a href="https://github.com/n3rada/SharpNotesReader">n3rada/SharpNotesReader: ★2</a>
 * <a href="https://github.com/n3rada/advisories">n3rada/advisories: ★1</a>
+* <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
