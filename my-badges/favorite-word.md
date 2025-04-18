@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. update (used 192 times)
-2. readme.md (used 113 times)
-3. add (used 39 times)
+1. update (used 197 times)
+2. readme.md (used 115 times)
+3. add (used 41 times)
 4. merge (used 24 times)
-5. pyproject.toml (used 15 times)
+5. pyproject.toml (used 18 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
