@@ -5,15 +5,15 @@
 Repos:
 
 * <a href="https://github.com/ungdev/ScribUTT">ungdev/ScribUTT: ★70</a>
-* <a href="https://github.com/n3rada/MSSQLand">n3rada/MSSQLand: ★23</a>
+* <a href="https://github.com/n3rada/MSSQLand">n3rada/MSSQLand: ★26</a>
 * <a href="https://github.com/theogobinet/Katsumi">theogobinet/Katsumi: ★22</a>
 * <a href="https://github.com/n3rada/DirtyPipe">n3rada/DirtyPipe: ★10</a>
 * <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★10</a>
 * <a href="https://github.com/n3rada/powerspace">n3rada/powerspace: ★6</a>
+* <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★3</a>
 * <a href="https://github.com/n3rada/Invoke-KeePassBackup">n3rada/Invoke-KeePassBackup: ★2</a>
 * <a href="https://github.com/n3rada/BloodHound.py">n3rada/BloodHound.py: ★2</a>
 * <a href="https://github.com/n3rada/SharpNotesReader">n3rada/SharpNotesReader: ★2</a>
-* <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★2</a>
 * <a href="https://github.com/n3rada/advisories">n3rada/advisories: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
