@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 212 times)\n2. readme.md (used 118 times)\n3. add (used 48 times)\n4. merge (used 24 times)\n5. pyproject.toml (used 22 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 221 times)\n2. readme.md (used 122 times)\n3. add (used 48 times)\n4. merge (used 25 times)\n5. pyproject.toml (used 22 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/e2f54857e48f27d1ec5dc19e816a010a5973c6e5\">e2f5485</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/d226d23cfb0348aaaa1d504311924930ca584c13\">d226d23</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/227e6de3552fced67992e5ce024dd329e3a9913e\">227e6de</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/8ab84dfb59e6bdb20884aba40ec8173bbdcddf28\">8ab84df</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/a4477fca6666ee656ed47ae9f88b379ed7611f5c\">a4477fc</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/e2f54857e48f27d1ec5dc19e816a010a5973c6e5\">e2f5485</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
