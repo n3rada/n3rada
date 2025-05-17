@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. readme.md (used 122 times)
 3. add (used 48 times)
 4. merge (used 25 times)
-5. pyproject.toml (used 22 times)
+5. pyproject.toml (used 23 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
