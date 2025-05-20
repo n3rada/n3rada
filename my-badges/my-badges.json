@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 221 times)\n2. readme.md (used 122 times)\n3. add (used 48 times)\n4. merge (used 25 times)\n5. pyproject.toml (used 23 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 229 times)\n2. readme.md (used 130 times)\n3. add (used 48 times)\n4. merge (used 25 times)\n5. pyproject.toml (used 23 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ungdev/ScribUTT\">ungdev/ScribUTT: ★70</a>\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★29</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★10</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★10</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/BloodHound.py\">n3rada/BloodHound.py: ★2</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ungdev/ScribUTT\">ungdev/ScribUTT: ★70</a>\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★31</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★10</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★10</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/BloodHound.py\">n3rada/BloodHound.py: ★2</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/dd5cfbd7995d46a929ec06ab24ed00a1fffecd89\">dd5cfbd</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/8ecf9a84c85caf6ee92522cf27fcaa3227a5ed3d\">8ecf9a8</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/5c190c800cd1ebec861208e558f0c99672ec8ab4\">5c190c8</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/762a53f9c48c91e3384e69a35959f5261f73ed17\">762a53f</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/31da1eea5f599d9f04696bf7832f3ff9bb0272bb\">31da1ee</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/da06cb665e9f5cc48f47ee79a5b2fc54a4daf3a8\">da06cb6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/365fe268a79de9a87e85e70df35689fb54d2165e\">365fe26</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/b65f4240ddd968a186f594106367140c573d7272\">b65f424</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/e18d8c48c5b74102a01379e36d3780cee173719b\">e18d8c4</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/74ff01118785176e55098f696693cb58f785d482\">74ff011</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/dd5cfbd7995d46a929ec06ab24ed00a1fffecd89\">dd5cfbd</a>\n- <a href=\"https://github.com/n3rada/SharpNotesReader/commit/8ecf9a84c85caf6ee92522cf27fcaa3227a5ed3d\">8ecf9a8</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
