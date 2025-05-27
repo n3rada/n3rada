@@ -4,8 +4,8 @@
 
 My favorite commit message words are:
 
-1. update (used 234 times)
-2. readme.md (used 131 times)
+1. update (used 235 times)
+2. readme.md (used 132 times)
 3. add (used 48 times)
 4. merge (used 25 times)
 5. pyproject.toml (used 24 times)
