@@ -4,8 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ungdev/ScribUTT">ungdev/ScribUTT: ★70</a>
-* <a href="https://github.com/n3rada/MSSQLand">n3rada/MSSQLand: ★35</a>
+* <a href="https://github.com/n3rada/MSSQLand">n3rada/MSSQLand: ★36</a>
 * <a href="https://github.com/theogobinet/Katsumi">theogobinet/Katsumi: ★22</a>
 * <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★11</a>
 * <a href="https://github.com/n3rada/DirtyPipe">n3rada/DirtyPipe: ★10</a>
