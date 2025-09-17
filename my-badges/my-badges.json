@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 257 times)\n2. readme.md (used 138 times)\n3. add (used 62 times)\n4. merge (used 28 times)\n5. pyproject.toml (used 23 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 258 times)\n2. readme.md (used 138 times)\n3. add (used 63 times)\n4. merge (used 28 times)\n5. pyproject.toml (used 23 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★38</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★11</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★11</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★10</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★7</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★40</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★11</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★11</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★10</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★7</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
