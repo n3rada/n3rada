@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 273 times)\n2. readme.md (used 149 times)\n3. add (used 75 times)\n4. merge (used 30 times)\n5. version (used 22 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 274 times)\n2. readme.md (used 149 times)\n3. add (used 74 times)\n4. refactor (used 19 times)\n5. enhance (used 19 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/Responder/commit/38a70ac6e01e75385d740ffc57d133fc26c3568f\">38a70ac</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/2c0a7c43e980944724a493f9d314a6019422f9f8\">2c0a7c4</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/a794b996a3f06f00f497bc4963db193f9718ef9c\">a794b99</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/3b3dc640c8762b4b03aee2faeec2bbedb166bf78\">3b3dc64</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/11bbc7f5203e76caa0640ccdaaf52cb6f18c894d\">11bbc7f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/0f762aa4535557838643124a764560b35bc390b2\">0f762aa</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/2c0a7c43e980944724a493f9d314a6019422f9f8\">2c0a7c4</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/a794b996a3f06f00f497bc4963db193f9718ef9c\">a794b99</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/3b3dc640c8762b4b03aee2faeec2bbedb166bf78\">3b3dc64</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/11bbc7f5203e76caa0640ccdaaf52cb6f18c894d\">11bbc7f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/0f762aa4535557838643124a764560b35bc390b2\">0f762aa</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/9e5d992b301d1c110a29ff3315ec2990bb78daf0\">9e5d992</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -98,13 +98,6 @@
     "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
-    "id": "public-keys-4",
-    "tier": 4,
-    "desc": "I have four public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
-  },
-  {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
@@ -119,17 +112,17 @@
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   },
   {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/Responder/commit/7be2c0c6657d4e4765e5ce88da075bdfa5f4a157\">7be2c0c</a>: chore: update .gitignore",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
