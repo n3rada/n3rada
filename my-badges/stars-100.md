@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/n3rada/MSSQLand">n3rada/MSSQLand: ★43</a>
+* <a href="https://github.com/n3rada/MSSQLand">n3rada/MSSQLand: ★44</a>
 * <a href="https://github.com/theogobinet/Katsumi">theogobinet/Katsumi: ★22</a>
 * <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★13</a>
 * <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★11</a>
@@ -13,6 +13,7 @@ Repos:
 * <a href="https://github.com/n3rada/SharpNotesReader">n3rada/SharpNotesReader: ★3</a>
 * <a href="https://github.com/n3rada/Invoke-KeePassBackup">n3rada/Invoke-KeePassBackup: ★2</a>
 * <a href="https://github.com/n3rada/advisories">n3rada/advisories: ★1</a>
+* <a href="https://github.com/n3rada/sapsxpg">n3rada/sapsxpg: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
