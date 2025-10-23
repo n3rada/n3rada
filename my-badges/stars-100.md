@@ -4,10 +4,10 @@
 
 Repos:
 
-* <a href="https://github.com/n3rada/MSSQLand">n3rada/MSSQLand: ★45</a>
+* <a href="https://github.com/n3rada/MSSQLand">n3rada/MSSQLand: ★46</a>
 * <a href="https://github.com/theogobinet/Katsumi">theogobinet/Katsumi: ★22</a>
 * <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★13</a>
-* <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★11</a>
+* <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★12</a>
 * <a href="https://github.com/n3rada/DirtyPipe">n3rada/DirtyPipe: ★10</a>
 * <a href="https://github.com/n3rada/powerspace">n3rada/powerspace: ★6</a>
 * <a href="https://github.com/n3rada/SharpNotesReader">n3rada/SharpNotesReader: ★3</a>

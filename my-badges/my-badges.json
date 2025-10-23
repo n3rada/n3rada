@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 279 times)\n2. readme.md (used 149 times)\n3. add (used 88 times)\n4. refactor (used 29 times)\n5. handling (used 25 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 293 times)\n2. readme.md (used 155 times)\n3. add (used 98 times)\n4. refactor (used 35 times)\n5. enhance (used 33 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,21 +31,21 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★45</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★13</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★11</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★10</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★46</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★13</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★12</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★10</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/msauth-browser/commit/6c7327ff3a001e8afbbb96683925677e2bb8a5bc\">6c7327f</a>\n- <a href=\"https://github.com/n3rada/msauth-browser/commit/57157c5ddd74bbaa9367956bf10caa90e343e5e4\">57157c5</a>\n- <a href=\"https://github.com/n3rada/sapsxpg/commit/b404fac879f32e34b243b3060645e593db35fb91\">b404fac</a>\n- <a href=\"https://github.com/n3rada/sapsxpg/commit/6d546774b6452ba6ee079fbb80792f938553237a\">6d54677</a>\n- <a href=\"https://github.com/n3rada/sapsxpg/commit/48b1e6be748646bdfd348ef579e79be1a9bbf07c\">48b1e6b</a>\n- <a href=\"https://github.com/n3rada/sapsxpg/commit/9f758b98d8222f7d1919932df80943874e6f75b5\">9f758b9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/099f65e6d16b0805a1783b48561dfbd8fdaae919\">099f65e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/6e2d28bed8d018b736ddc1d20ca40ab9762115ce\">6e2d28b</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/2202b53dafe326eedcebefb3735338fa882e7e75\">2202b53</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/57a09dcd8f51c469ac6b3e169004ea738eabd57f\">57a09dc</a>\n- <a href=\"https://github.com/n3rada/msauth-browser/commit/6c7327ff3a001e8afbbb96683925677e2bb8a5bc\">6c7327f</a>\n- <a href=\"https://github.com/n3rada/msauth-browser/commit/57157c5ddd74bbaa9367956bf10caa90e343e5e4\">57157c5</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/2c0a7c43e980944724a493f9d314a6019422f9f8\">2c0a7c4</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/a794b996a3f06f00f497bc4963db193f9718ef9c\">a794b99</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/3b3dc640c8762b4b03aee2faeec2bbedb166bf78\">3b3dc64</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/11bbc7f5203e76caa0640ccdaaf52cb6f18c894d\">11bbc7f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/0f762aa4535557838643124a764560b35bc390b2\">0f762aa</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/9e5d992b301d1c110a29ff3315ec2990bb78daf0\">9e5d992</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/34231ca9695c6e8e96f04e85834a1f1e5ec5b072\">34231ca</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/2c0a7c43e980944724a493f9d314a6019422f9f8\">2c0a7c4</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/a794b996a3f06f00f497bc4963db193f9718ef9c\">a794b99</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/3b3dc640c8762b4b03aee2faeec2bbedb166bf78\">3b3dc64</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/11bbc7f5203e76caa0640ccdaaf52cb6f18c894d\">11bbc7f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/0f762aa4535557838643124a764560b35bc390b2\">0f762aa</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -124,5 +124,12 @@
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/2202b53dafe326eedcebefb3735338fa882e7e75\">2202b53</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   }
 ]
