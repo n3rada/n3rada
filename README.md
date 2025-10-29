@@ -25,6 +25,8 @@ Programming is mostly about thinking. Hacking is about thinking one step ahead.
 <a href="my-badges/public-keys-3.md"><img src="https://my-badges.github.io/my-badges/public-keys-3.png" alt="I have three public keys" title="I have three public keys" width="64"></a>
 <a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
+<a href="my-badges/fix-4.md"><img src="https://my-badges.github.io/my-badges/fix-4.png" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a>
+<a href="my-badges/fix-6+.md"><img src="https://my-badges.github.io/my-badges/fix-6+.png" alt="I did 13 sequential fixes." title="I did 13 sequential fixes." width="64"></a>
 <!-- my-badges end -->
 
 <div style="padding: 10px;">
