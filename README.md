@@ -44,7 +44,7 @@ Some tools fit neatly into categories, while others belong in a grab bag of util
 These two tools are designed to **simplify complex T-SQL interactions** for Microsoft SQL Server environments. You can **impersonate any user** along the way **to the last linked server in your chain**. Both tools prioritize modularity, extensibility, and operator experience, following robust OOP practices and addressing real-world red team requirements. Each tool serves a distinct purpose.
 
 - [mssqlclient-ng](https://github.com/n3rada/mssqlclient-ng.git): A Python3 tool built upon Impacket’s `mssqlclient.py`, **ideal for external access**.
-- [MSSQLand](https://github.com/n3rada/MSSQLand.git): A C# executable, **designed for beacon assembly execution and restricted environments**.
+- [MSSQLand](https://github.com/n3rada/MSSQLand.git): The C# executable twin, **designed for beacon assembly execution and restricted environments**.
 
 ----
 
