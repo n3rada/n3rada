@@ -47,7 +47,7 @@ These two tools are designed to **simplify complex T-SQL interactions** for Micr
 Some tools fit neatly into categories, while others belong in a grab bag of utilities:
 
 - [msauth-browser](https://github.com/n3rada/msauth-browser): A Python3 tool that leverages Playwright browser automation to extract Microsoft OAuth tokens. Ideal for Microsoft Graph and M365 red team operations.
-- [sapsxpg](https://github.com/n3rada/sapsxpg.git): If you’ve ever worked with SAP during a penetration test, you know how cumbersome using SXPG_CALL_SYSTEM on a SAP server can be. This tool is for you.
+- [sapsxpg](https://github.com/n3rada/sapsxpg.git): If you’ve ever worked with SAP during a penetration test, you know how cumbersome using `SXPG_CALL_SYSTEM` on a SAP server can be. This tool is for you.
 
 
 ----
