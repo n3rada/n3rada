@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 312 times)\n2. readme.md (used 155 times)\n3. add (used 107 times)\n4. refactor (used 42 times)\n5. enhance (used 37 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 345 times)\n2. add (used 182 times)\n3. readme.md (used 167 times)\n4. action (used 76 times)\n5. refactor (used 61 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★46</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★13</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★12</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★10</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★47</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★13</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★12</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★10</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -152,5 +152,26 @@
     "desc": "I did 13 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/e3cb7555a5e590c41071baa64b3a95f436e5270d\">e3cb755</a>: fix: define remote encoded path early and clean up leftover files in PutAction\n- <a href=\"https://github.com/n3rada/toboggan/commit/5c6c223127878e47b2fa9569b1ba39359439bc65\">5c6c223</a>: fix: reduce default chunk size for remote commands to improve performance\n- <a href=\"https://github.com/n3rada/toboggan/commit/efaeeaa0f5d3b052550181ff9d661d950e4e4c72\">efaeeaa</a>: fix: align log level name for consistent formatting in ToboLogger\n- <a href=\"https://github.com/n3rada/toboggan/commit/0ee11cbe528a784bda9c9d26168aba035072ef43\">0ee11cb</a>: fix: unify command name for max size in TobogganCompleter and Terminal\n- <a href=\"https://github.com/n3rada/toboggan/commit/db4906c517501e77ec411dc1757b3b2ad2864914\">db4906c</a>: fix: standardize read interval and improve logging in NamedPipe actions\n- <a href=\"https://github.com/n3rada/toboggan/commit/0a37b6cb44c64cdfb048a3fb17ea56b5b56c0e05\">0a37b6c</a>: fix: unify command name for max size in TobogganCompleter and Terminal\n- <a href=\"https://github.com/n3rada/toboggan/commit/312ed63c0341e3e2e0cb7cd3576518c936080d94\">312ed63</a>: fix: replace printf with echo for chunk upload in PutAction\n- <a href=\"https://github.com/n3rada/toboggan/commit/256a03904da94c19b7d72a6b04359d100068d022\">256a039</a>: fix: replace echo with printf for chunk upload in PutAction\n- <a href=\"https://github.com/n3rada/toboggan/commit/3c3ee5ba64c1a73462c860a5034a71640020c579\">3c3ee5b</a>: fix: remove unnecessary whitespace in FifoAction constructor\n- <a href=\"https://github.com/n3rada/toboggan/commit/85f9bec11745c0b9751e88a2bdc1389f034c40cd\">85f9bec</a>: fix: remove quotes around chunk in remote execute command\n- <a href=\"https://github.com/n3rada/toboggan/commit/7b3ddf264cabe38f8cc4210a1f9d892c9375afb7\">7b3ddf2</a>: fix: update remote encoded file path to remove gzip extension\n- <a href=\"https://github.com/n3rada/toboggan/commit/50131eaa59d04f888e4abe7b38054bfb1953e007\">50131ea</a>: fix: remove gzip compression from file upload process\n- <a href=\"https://github.com/n3rada/toboggan/commit/64cc1a77132d1a69a0292bea83f90ccbcf0313ae\">64cc1a7</a>: fix: simplify version help message in build_parser function",
     "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/739c70e816a657963b776b3980dad2b3260a66fe\">739c70e</a>: fix: enhance shell validation method to support multiple commands for better compatibility\n- <a href=\"https://github.com/n3rada/toboggan/commit/81d1f998d608257b363bfb374772487b9a6cc2ce\">81d1f99</a>: fix: add retry parameter to remote_execute for ping and DNS resolution\n- <a href=\"https://github.com/n3rada/toboggan/commit/207e0f10c5a0d69fb7d33ac2850b73bbda85763d\">207e0f1</a>: fix: update version to 0.9.1 in pyproject.toml",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/66bf3f901771571cd0e2c1e917269490a87bfd0a\">66bf3f9</a>: fix: remove log_level parameter from Terminal class initialization\n- <a href=\"https://github.com/n3rada/toboggan/commit/c538dfe70c8e89ee0a63bb2515136fa6036e4cf0\">c538dfe</a>: fix: enhance docstrings for Terminal class and its methods\n- <a href=\"https://github.com/n3rada/toboggan/commit/90b3598df2e129a5a8d2b1b4f2c52c7b9b3870fb\">90b3598</a>: fix: improve docstrings and refactor user/hostname validation in Target class\n- <a href=\"https://github.com/n3rada/toboggan/commit/45a1d21315a0a726e94aaa182647f5d191bea5d0\">45a1d21</a>: fix: Unnecessary \"elif\" after \"return\"\n- <a href=\"https://github.com/n3rada/toboggan/commit/2fd5b3ea08d85bd158b6772851bddef71a0466b8\">2fd5b3e</a>: fix: validate user and hostname inputs in Target class constructor",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/7dbfdc217830121ad66d98e2a0b14b73a6e7ce3e\">7dbfdc2</a>: fix: remove unused loguru import to clean up code\n- <a href=\"https://github.com/n3rada/toboggan/commit/3069c5f092040bcd045489e5a2c10e0cbcac06c6\">3069c5f</a>: fix: refactor exit method for improved clarity and control flow in Terminal class\n- <a href=\"https://github.com/n3rada/toboggan/commit/cfbf6d4cfe0ac2be8b9e9c0ed5b64f956deb449b\">cfbf6d4</a>: fix: improve handling of KeyboardInterrupt and enhance logging for Ctrl+C behavior\n- <a href=\"https://github.com/n3rada/toboggan/commit/fca30706c6a5105c7b2b368dfc8829a0d1dec249\">fca3070</a>: fix: change warning log to trace for empty command execution\n- <a href=\"https://github.com/n3rada/toboggan/commit/adfabb41668ae5bf597d325da1261c25d8443b71\">adfabb4</a>: fix: update logging to use TRACE level for command obfuscation and encoding\n- <a href=\"https://github.com/n3rada/toboggan/commit/6033a8b98ab05232f521a034b58850541597177c\">6033a8b</a>: fix: improve file upload command and enhance MD5 mismatch warning",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
   }
 ]
