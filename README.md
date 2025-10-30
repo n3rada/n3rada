@@ -31,7 +31,24 @@ Programming is mostly about thinking. Hacking is about thinking one step ahead.
 <a href="my-badges/fix-5.md"><img src="https://my-badges.github.io/my-badges/fix-5.png" alt="I did 5 sequential fixes." title="I did 5 sequential fixes." width="64"></a>
 <a href="my-badges/fix-6.md"><img src="https://my-badges.github.io/my-badges/fix-6.png" alt="I did 6 sequential fixes." title="I did 6 sequential fixes." width="64"></a>
 <!-- my-badges end -->
+</div>
 
+## 📦 Toolbox
+
+Some tools fit neatly into categories, while others belong in a grab bag of utilities:
+
+- [msauth-browser](https://github.com/n3rada/msauth-browser): A Python3 tool that leverages Playwright browser automation to extract Microsoft OAuth tokens. Ideal for Microsoft Graph and M365 red team operations.
+
+### Microsoft SQL Server (MS SQL / MSSQL)
+
+These two tools are designed to **simplify complex T-SQL interactions** for Microsoft SQL Server environments. You can **impersonate any user** along the way **to the last linked server in your chain**. Both tools prioritize modularity, extensibility, and operator experience, following robust OOP practices and addressing real-world red team requirements. Each tool serves a distinct purpose.
+
+- [mssqlclient-ng](https://github.com/n3rada/mssqlclient-ng.git): A Python3 tool built upon Impacket’s `mssqlclient.py`, **ideal for external access**.
+- [MSSQLand](https://github.com/n3rada/MSSQLand.git): A C# executable, **designed for beacon assembly execution and restricted environments**.
+
+----
+
+<div align="center">
 <div style="padding: 10px;">
 <strong>📫 Reach Me At:</strong> <code>/dev/null</code> - or find your way to.
 </div>
