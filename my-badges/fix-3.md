@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/toboggan/commit/739c70e816a657963b776b3980dad2b3260a66fe">739c70e</a>: fix: enhance shell validation method to support multiple commands for better compatibility
-- <a href="https://github.com/n3rada/toboggan/commit/81d1f998d608257b363bfb374772487b9a6cc2ce">81d1f99</a>: fix: add retry parameter to remote_execute for ping and DNS resolution
-- <a href="https://github.com/n3rada/toboggan/commit/207e0f10c5a0d69fb7d33ac2850b73bbda85763d">207e0f1</a>: fix: update version to 0.9.1 in pyproject.toml
+- <a href="https://github.com/n3rada/toboggan/commit/5e8d871d7027adcdf1d802938ed12a14a208173e">5e8d871</a>: fix: improve remote path handling in UploadAction to use current working directory
+- <a href="https://github.com/n3rada/toboggan/commit/66538eb74054cf2f01ac48cc3f3f403670d10e30">66538eb</a>: fix: change logging level to debug for command execution in Terminal
+- <a href="https://github.com/n3rada/toboggan/commit/ba34c2c74369dbf2bb655caffab2cca9c29672d4">ba34c2c</a>: fix: enhance remote path handling in UploadAction and improve logging
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
