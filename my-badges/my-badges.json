@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 332 times)\n2. add (used 176 times)\n3. readme.md (used 166 times)\n4. action (used 77 times)\n5. refactor (used 61 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 334 times)\n2. add (used 184 times)\n3. readme.md (used 168 times)\n4. action (used 77 times)\n5. refactor (used 63 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -166,5 +166,12 @@
     "desc": "I did 6 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/7dbfdc217830121ad66d98e2a0b14b73a6e7ce3e\">7dbfdc2</a>: fix: remove unused loguru import to clean up code\n- <a href=\"https://github.com/n3rada/toboggan/commit/3069c5f092040bcd045489e5a2c10e0cbcac06c6\">3069c5f</a>: fix: refactor exit method for improved clarity and control flow in Terminal class\n- <a href=\"https://github.com/n3rada/toboggan/commit/cfbf6d4cfe0ac2be8b9e9c0ed5b64f956deb449b\">cfbf6d4</a>: fix: improve handling of KeyboardInterrupt and enhance logging for Ctrl+C behavior\n- <a href=\"https://github.com/n3rada/toboggan/commit/fca30706c6a5105c7b2b368dfc8829a0d1dec249\">fca3070</a>: fix: change warning log to trace for empty command execution\n- <a href=\"https://github.com/n3rada/toboggan/commit/adfabb41668ae5bf597d325da1261c25d8443b71\">adfabb4</a>: fix: update logging to use TRACE level for command obfuscation and encoding\n- <a href=\"https://github.com/n3rada/toboggan/commit/6033a8b98ab05232f521a034b58850541597177c\">6033a8b</a>: fix: improve file upload command and enhance MD5 mismatch warning",
     "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/b40cb5bd4488ec17d94330124516bd460a4a2513\">b40cb5b</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/f90001dc8ce11a70e98ba3ca3eea77c598c3ae00\">f90001d</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/831aea6135c98a5fa2649c8548981145a2370b5f\">831aea6</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/6bd624f86eb6b10b1ece8f4ae02d4da0f7f1afad\">6bd624f</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/fc97208a71964aefa6a6833a4ddfc6cd51c1b246\">fc97208</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/d9eac768222d1a24f204875d482c44f65d137f78\">d9eac76</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   }
 ]
