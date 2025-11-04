@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 336 times)\n2. add (used 187 times)\n3. readme.md (used 169 times)\n4. action (used 77 times)\n5. refactor (used 68 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 329 times)\n2. add (used 188 times)\n3. readme.md (used 169 times)\n4. action (used 77 times)\n5. refactor (used 68 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/230f4cfbe2db2aedfb33a66e759f0066ce9f749b\">230f4cf</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/764acedc9d42cf4cc4759aaf3720d353e14baae3\">764aced</a>\n- <a href=\"https://github.com/n3rada/modwrap/commit/dabf8709cecc488e895b08225563d45b6e5459fb\">dabf870</a>\n- <a href=\"https://github.com/n3rada/modwrap/commit/d36bcff6a21c1c9acd2835a2c662bbc9b553a986\">d36bcff</a>\n- <a href=\"https://github.com/n3rada/modwrap/commit/15f359ef0c9a47bc5035acab8a3ba4ef9f7a17e9\">15f359e</a>\n- <a href=\"https://github.com/n3rada/modwrap/commit/1c6e1da65fb2a178fd93eb6235ddc28ca8b6ad8f\">1c6e1da</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/31d2dac45818d52b342d54187c3717eab40851ed\">31d2dac</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/c967e82fb60cfc1809bf0f680d55621279e2abb4\">c967e82</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/126f3878c9488bbddd4f390a9b756c0163cecfcf\">126f387</a>\n- <a href=\"https://github.com/n3rada/smartbrute/commit/cf0c94d73530c8686daa83c30c9d49db937a42d4\">cf0c94d</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/230f4cfbe2db2aedfb33a66e759f0066ce9f749b\">230f4cf</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/764acedc9d42cf4cc4759aaf3720d353e14baae3\">764aced</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/smbclient-ng/commit/ed5cd2075871d357849c79829eb19df7aeb19a3a\">ed5cd20</a>: fix: update license from MIT to GPL-3.0-or-later in pyproject.toml\n- <a href=\"https://github.com/n3rada/smbclient-ng/commit/33a0cac99c90b52044f1c4ff9d4e22bcae706f22\">33a0cac</a>: fix: PEP 621-compliant pyproject.toml",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/GraphRunner/commit/3d44b160aa4d3228125f46089128eb21eb26accc\">3d44b16</a>: fix: ensure `BatchSize` never exceeds 1000 (Graph API limit)\n- <a href=\"https://github.com/n3rada/GraphRunner/commit/5ee76eb96a32c397165da96816676b4d1f4cbc2e\">5ee76eb</a>: fix #32 (fetch all SharePoint sites) and add MaxSites parameter",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
