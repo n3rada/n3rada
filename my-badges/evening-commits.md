@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/NetExec/commit/d2c2e3a9380724dc2a108360e09ca780d86948a7">d2c2e3a</a>
-- <a href="https://github.com/n3rada/NetExec/commit/be9cbd28338b3debd346d6bb85301efefc7b6fe7">be9cbd2</a>
-- <a href="https://github.com/n3rada/NetExec/commit/7cf4e765730dc9c7025fc5f3a96afb3bdde56d7b">7cf4e76</a>
-- <a href="https://github.com/n3rada/toboggan/commit/31d2dac45818d52b342d54187c3717eab40851ed">31d2dac</a>
-- <a href="https://github.com/n3rada/toboggan/commit/c967e82fb60cfc1809bf0f680d55621279e2abb4">c967e82</a>
-- <a href="https://github.com/n3rada/toboggan/commit/126f3878c9488bbddd4f390a9b756c0163cecfcf">126f387</a>
+- <a href="https://github.com/n3rada/smbclient-ng/commit/f4294de49d1cda3b38cfc654211f7e47314ca24f">f4294de</a>
+- <a href="https://github.com/n3rada/smbclient-ng/commit/7638066a3fe6dddbab45643e9990734e678e53d3">7638066</a>
+- <a href="https://github.com/n3rada/smbclient-ng/commit/f89f73d191e38471ca040cdbbfea0b82e81f9b3e">f89f73d</a>
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/09d89653f32b64e4525252408c48f70413c74296">09d8965</a>
+- <a href="https://github.com/n3rada/toboggan/commit/bbee140e99ad8be4de126edb979adb15caf60d5f">bbee140</a>
+- <a href="https://github.com/n3rada/n3rada/commit/d00298fd09e9262d0509f0c904c5ccc3600993ae">d00298f</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
