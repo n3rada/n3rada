@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/toboggan/commit/5e8d871d7027adcdf1d802938ed12a14a208173e">5e8d871</a>: fix: improve remote path handling in UploadAction to use current working directory
-- <a href="https://github.com/n3rada/toboggan/commit/66538eb74054cf2f01ac48cc3f3f403670d10e30">66538eb</a>: fix: change logging level to debug for command execution in Terminal
-- <a href="https://github.com/n3rada/toboggan/commit/ba34c2c74369dbf2bb655caffab2cca9c29672d4">ba34c2c</a>: fix: enhance remote path handling in UploadAction and improve logging
+- <a href="https://github.com/n3rada/evil-winrm-py/commit/6a331171370e04a50ef541efea5cd2e4a17c3633">6a33117</a>: fix: handle KeyboardInterrupt and EOFError in interactive shell prompt
+- <a href="https://github.com/n3rada/evil-winrm-py/commit/236395907f25b0d413310900af2eb6d632e35fb6">2363959</a>: fix: change logging level to debug for session management in _TransportHTTPEWP
+- <a href="https://github.com/n3rada/evil-winrm-py/commit/57548b13655bcf96fe9bb41af7ade4c121f2dc21">57548b1</a>: fix: enhance logging messages for session management in _TransportHTTPEWP
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
