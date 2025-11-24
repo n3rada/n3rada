@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/GraphRunner/commit/3d44b160aa4d3228125f46089128eb21eb26accc">3d44b16</a>: fix: ensure `BatchSize` never exceeds 1000 (Graph API limit)
-- <a href="https://github.com/n3rada/GraphRunner/commit/5ee76eb96a32c397165da96816676b4d1f4cbc2e">5ee76eb</a>: fix #32 (fetch all SharePoint sites) and add MaxSites parameter
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/008e463d20c5fc0298ba0f6cd040e7905e57da27">008e463</a>: fix: correct PyPI package name formatting in installation instructions
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/de907765877fe0066ec106fc7a35735ead34204b">de90776</a>: fix: correct argument reference in usage tip for linked servers
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

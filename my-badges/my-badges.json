@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 431 times)\n2. add (used 247 times)\n3. readme.md (used 177 times)\n4. enhance (used 116 times)\n5. refactor (used 108 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 440 times)\n2. add (used 258 times)\n3. enhance (used 144 times)\n4. logging (used 120 times)\n5. handling (used 116 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/173a855f61877c41879777e28e5f9e5c486c2cca\">173a855</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0be2e7fbfdd180e99967f12c1e60bf5dedf49922\">0be2e7f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/51daebd29c39dd531da189cba4f4eb611799bf35\">51daebd</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/88f88acd433477fa2016884a8cf2e7e419ddf532\">88f88ac</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/37d19c29c2a69c88408b3e8ad120836a2f2fbf4f\">37d19c2</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/f67a809f71e14bff5e24f9110dd9586b3fd74382\">f67a809</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/622b8a5e76cf48700500e0762e4f4b9867a5693e\">622b8a5</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/064a51fdc173f178d0675cf824e88bb60158575d\">064a51f</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/957c9c272be5534bec608b95319110668220e588\">957c9c2</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/9ec1c132d5e1123c1ea7e91ad7f11e604204c37f\">9ec1c13</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0a977497db53be16e9b5b9db7c4b00744ea56a55\">0a97749</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/50d7662f01188e1bd5cbd447535f6b00c4f52753\">50d7662</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/GraphRunner/commit/3d44b160aa4d3228125f46089128eb21eb26accc\">3d44b16</a>: fix: ensure `BatchSize` never exceeds 1000 (Graph API limit)\n- <a href=\"https://github.com/n3rada/GraphRunner/commit/5ee76eb96a32c397165da96816676b4d1f4cbc2e\">5ee76eb</a>: fix #32 (fetch all SharePoint sites) and add MaxSites parameter",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/008e463d20c5fc0298ba0f6cd040e7905e57da27\">008e463</a>: fix: correct PyPI package name formatting in installation instructions\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/de907765877fe0066ec106fc7a35735ead34204b\">de90776</a>: fix: correct argument reference in usage tip for linked servers",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a78df4e3e4b36dd8c3d3243c798c3c0cc272c95d\">a78df4e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/4d7892a9d0aea37ab8d80eb2d931bed98fe113ba\">4d7892a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c0af33ed1783b33c9bacb3f069cef96d4f2aebdf\">c0af33e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/622b8a5e76cf48700500e0762e4f4b9867a5693e\">622b8a5</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/064a51fdc173f178d0675cf824e88bb60158575d\">064a51f</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0a977497db53be16e9b5b9db7c4b00744ea56a55\">0a97749</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/85b09b8ee5d3e86dfe6e4baf39851527d9b2093e\">85b09b8</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a78df4e3e4b36dd8c3d3243c798c3c0cc272c95d\">a78df4e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/4d7892a9d0aea37ab8d80eb2d931bed98fe113ba\">4d7892a</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -180,5 +180,12 @@
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/09d89653f32b64e4525252408c48f70413c74296\">09d8965</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/bbee140e99ad8be4de126edb979adb15caf60d5f\">bbee140</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/d00298fd09e9262d0509f0c904c5ccc3600993ae\">d00298f</a>\n- <a href=\"https://github.com/n3rada/NetExec/commit/f7dcd5f286eff67dc068f9b9fccf97c1dbfcc1f2\">f7dcd5f</a>\n- <a href=\"https://github.com/n3rada/NetExec/commit/ea46524e8768cc1fe1a42c9b2472b8d65a95e7a3\">ea46524</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/031c103f7f71048c368b57288cda83035ed83453\">031c103</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/b19d8e6bc9e173675d236c12dcc5c1af62732fd6\">b19d8e6</a>: chore: update dependencies and version in pyproject.toml; regenerate poetry.lock",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   }
 ]
