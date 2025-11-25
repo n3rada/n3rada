@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 440 times)\n2. add (used 258 times)\n3. enhance (used 144 times)\n4. logging (used 120 times)\n5. handling (used 116 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 449 times)\n2. add (used 267 times)\n3. enhance (used 155 times)\n4. action (used 139 times)\n5. sql (used 104 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/622b8a5e76cf48700500e0762e4f4b9867a5693e\">622b8a5</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/064a51fdc173f178d0675cf824e88bb60158575d\">064a51f</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/957c9c272be5534bec608b95319110668220e588\">957c9c2</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/9ec1c132d5e1123c1ea7e91ad7f11e604204c37f\">9ec1c13</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0a977497db53be16e9b5b9db7c4b00744ea56a55\">0a97749</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/50d7662f01188e1bd5cbd447535f6b00c4f52753\">50d7662</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/7d16cf909b2dbffe95d1b07139bd122367b756b0\">7d16cf9</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/2df48c33e684bc25f838f63f3537ef7de457483c\">2df48c3</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/0619e3ec85030a447d4f91ef5cc6b79077877723\">0619e3e</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/3e4f07164e76010c2afeacd262761763ceca7af2\">3e4f071</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/4b36c5432c065c9b725143aa3f958731454fd35b\">4b36c54</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/7f27a704072de0fc21b62883a76610fccb139828\">7f27a70</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/85e5b7933af8ceae09c2d262700d247d7b45cfbe\">85e5b79</a>: fix: Reorganize SQL queries for clarity and update OS Version output handling\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/b4583f3df596c42c7404d31456c99c015f09bfd3\">b4583f3</a>: fix: Remove line breaks from OS Version Number output for improved readability\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/62cf4499b22849b33cd8ff494ca71c04ada5f317\">62cf449</a>: fix: Update SQL queries for major version and OS details to use SERVERPROPERTY for accuracy\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/015d2322b5abb386c12d6c342eb9c0569ec50ae4\">015d232</a>: fix: Enhance database query to include visibility and improve output order",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/2df48c33e684bc25f838f63f3537ef7de457483c\">2df48c3</a>: fix: remove trailing space in EXEC statement for correct SQL execution\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/0619e3ec85030a447d4f91ef5cc6b79077877723\">0619e3e</a>: fix: add trailing space in EXEC statement for proper SQL execution\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/3e4f07164e76010c2afeacd262761763ceca7af2\">3e4f071</a>: fix: adjust EXECUTE AS LOGIN and USE statements for proper spacing and database context\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/1237dd2ea29d56c13dc6e20fa8af749e1cdd1bb6\">1237dd2</a>: fix: update USE statement logic for linked servers to include all but the direct connection",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {

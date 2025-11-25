@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/MSSQLand/commit/85e5b7933af8ceae09c2d262700d247d7b45cfbe">85e5b79</a>: fix: Reorganize SQL queries for clarity and update OS Version output handling
-- <a href="https://github.com/n3rada/MSSQLand/commit/b4583f3df596c42c7404d31456c99c015f09bfd3">b4583f3</a>: fix: Remove line breaks from OS Version Number output for improved readability
-- <a href="https://github.com/n3rada/MSSQLand/commit/62cf4499b22849b33cd8ff494ca71c04ada5f317">62cf449</a>: fix: Update SQL queries for major version and OS details to use SERVERPROPERTY for accuracy
-- <a href="https://github.com/n3rada/MSSQLand/commit/015d2322b5abb386c12d6c342eb9c0569ec50ae4">015d232</a>: fix: Enhance database query to include visibility and improve output order
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/2df48c33e684bc25f838f63f3537ef7de457483c">2df48c3</a>: fix: remove trailing space in EXEC statement for correct SQL execution
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/0619e3ec85030a447d4f91ef5cc6b79077877723">0619e3e</a>: fix: add trailing space in EXEC statement for proper SQL execution
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/3e4f07164e76010c2afeacd262761763ceca7af2">3e4f071</a>: fix: adjust EXECUTE AS LOGIN and USE statements for proper spacing and database context
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/1237dd2ea29d56c13dc6e20fa8af749e1cdd1bb6">1237dd2</a>: fix: update USE statement logic for linked servers to include all but the direct connection
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
