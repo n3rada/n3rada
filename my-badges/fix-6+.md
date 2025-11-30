@@ -1,9 +1,12 @@
-<img src="https://my-badges.github.io/my-badges/fix-6+.png" alt="I did 12 sequential fixes." title="I did 12 sequential fixes." width="128">
-<strong>I did 12 sequential fixes.</strong>
+<img src="https://my-badges.github.io/my-badges/fix-6+.png" alt="I did 15 sequential fixes." title="I did 15 sequential fixes." width="128">
+<strong>I did 15 sequential fixes.</strong>
 <br><br>
 
 Commits:
 
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/9c1fdcd2b5bbef2930d243360427e6c056b9ce7b">9c1fdcd</a>: fix: remove system-site-packages setting from poetry.toml
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/707a1367579e710418d816b131c46cd6c8c713f4">707a136</a>: fix: clean up docstrings and comments in LinkedServers class for clarity and accuracy
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/0fcf289219992ac8ad3c379031f9d9f405c4161d">0fcf289</a>: fix: update impacket and werkzeug package versions in poetry.lock
 - <a href="https://github.com/n3rada/mssqlclient-ng/commit/9a113ca0f05be492dfa17abf1e6714670cdb54ad">9a113ca</a>: fix: update validate_arguments method to accept string instead of list
 - <a href="https://github.com/n3rada/mssqlclient-ng/commit/08286a3e086522edb02ce33d4a67d7bb5dd8a565">08286a3</a>: fix: remove unnecessary argument definitions from read and tree actions
 - <a href="https://github.com/n3rada/mssqlclient-ng/commit/9b492ce5a6405a3aeb2dcf00a73acf0429cbfba4">9b492ce</a>: fix: remove unnecessary argument definitions from action registrations

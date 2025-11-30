@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/mssqlclient-ng/commit/008e463d20c5fc0298ba0f6cd040e7905e57da27">008e463</a>: fix: correct PyPI package name formatting in installation instructions
-- <a href="https://github.com/n3rada/mssqlclient-ng/commit/de907765877fe0066ec106fc7a35735ead34204b">de90776</a>: fix: correct argument reference in usage tip for linked servers
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/f797286f0138358759934781d6ce24efb873d885">f797286</a>: fix: improve argument validation and logging in AdsiManager class
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/fdef39b24688d76fcdec80721268303876e057bc">fdef39b</a>: fix: clean up SQL formatting and logger messages in Trustworthy action
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
