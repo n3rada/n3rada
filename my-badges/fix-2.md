@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/mssqlclient-ng/commit/f797286f0138358759934781d6ce24efb873d885">f797286</a>: fix: improve argument validation and logging in AdsiManager class
-- <a href="https://github.com/n3rada/mssqlclient-ng/commit/fdef39b24688d76fcdec80721268303876e057bc">fdef39b</a>: fix: clean up SQL formatting and logger messages in Trustworthy action
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/9102d3e747788e2c4f8ed79f999d228e8d9db193">9102d3e</a>: fix: correct import path for Databases action and add new Databases class for listing SQL Server databases
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/3a86ab0f97c27201f8e431cc9f4ccd2ce628d72e">3a86ab0</a>: fix: improve argument validation and logging in CreateUser action
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/mssqlclient-ng/commit/b19d8e6bc9e173675d236c12dcc5c1af62732fd6">b19d8e6</a>: chore: update dependencies and version in pyproject.toml; regenerate poetry.lock
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/968669fe12150d01bad187e01e8babaebfb3950b">968669f</a>: chore: update file header comment format in permissions.py
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
