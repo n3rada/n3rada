@@ -50,6 +50,8 @@ Some tools fit neatly into categories, while others belong in a grab bag of util
 <!-- my-badges end -->
 </div>
 
+---
+
 <div align="center">
 <div style="padding: 10px;">
 <strong>📫 Reach Me At:</strong> <code>/dev/null</code> - or find your way to.
