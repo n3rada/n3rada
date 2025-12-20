@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 513 times)\n2. add (used 283 times)\n3. readme.md (used 182 times)\n4. enhance (used 172 times)\n5. logging (used 159 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 555 times)\n2. add (used 309 times)\n3. enhance (used 192 times)\n4. readme.md (used 187 times)\n5. handling (used 177 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★48</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★13</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★12</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★11</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★3</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/msauth-browser\">n3rada/msauth-browser: ★1</a>\n* <a href=\"https://github.com/n3rada/NetExec-Wiki\">n3rada/NetExec-Wiki: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★48</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★13</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★12</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★11</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★3</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/msauth-browser\">n3rada/msauth-browser: ★1</a>\n* <a href=\"https://github.com/n3rada/mssqlclient-ng\">n3rada/mssqlclient-ng: ★1</a>\n* <a href=\"https://github.com/n3rada/NetExec-Wiki\">n3rada/NetExec-Wiki: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/9102d3e747788e2c4f8ed79f999d228e8d9db193\">9102d3e</a>: fix: correct import path for Databases action and add new Databases class for listing SQL Server databases\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/3a86ab0f97c27201f8e431cc9f4ccd2ce628d72e\">3a86ab0</a>: fix: improve argument validation and logging in CreateUser action",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/a62e8228b233a2989292c5a3a50fecb799f11619\">a62e822</a>: fix: handle exceptions during SQL login creation and log password setting\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/0317f32614cc9ee241242adcf76b752457703899\">0317f32</a>: fix: update user retrieval method for consistency in impersonation checks",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/2202b53dafe326eedcebefb3735338fa882e7e75\">2202b53</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/9d97a4227260a7228d1465e2811ac28d43371a9b\">9d97a42</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -185,7 +185,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/968669fe12150d01bad187e01e8babaebfb3950b\">968669f</a>: chore: update file header comment format in permissions.py",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c599539d5709e188b8aad06d0b969179978e0f06\">c599539</a>: chore: add header comment to procedures.py for clarity",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   }
 ]

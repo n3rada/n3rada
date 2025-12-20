@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/MSSQLand/commit/2202b53dafe326eedcebefb3735338fa882e7e75">2202b53</a>
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/9d97a4227260a7228d1465e2811ac28d43371a9b">9d97a42</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

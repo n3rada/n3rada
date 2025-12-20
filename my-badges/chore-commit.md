@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/mssqlclient-ng/commit/968669fe12150d01bad187e01e8babaebfb3950b">968669f</a>: chore: update file header comment format in permissions.py
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/c599539d5709e188b8aad06d0b969179978e0f06">c599539</a>: chore: add header comment to procedures.py for clarity
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

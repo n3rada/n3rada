@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/mssqlclient-ng/commit/9102d3e747788e2c4f8ed79f999d228e8d9db193">9102d3e</a>: fix: correct import path for Databases action and add new Databases class for listing SQL Server databases
-- <a href="https://github.com/n3rada/mssqlclient-ng/commit/3a86ab0f97c27201f8e431cc9f4ccd2ce628d72e">3a86ab0</a>: fix: improve argument validation and logging in CreateUser action
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/a62e8228b233a2989292c5a3a50fecb799f11619">a62e822</a>: fix: handle exceptions during SQL login creation and log password setting
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/0317f32614cc9ee241242adcf76b752457703899">0317f32</a>: fix: update user retrieval method for consistency in impersonation checks
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

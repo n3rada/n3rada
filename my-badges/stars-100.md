@@ -15,6 +15,7 @@ Repos:
 * <a href="https://github.com/n3rada/Invoke-KeePassBackup">n3rada/Invoke-KeePassBackup: ★2</a>
 * <a href="https://github.com/n3rada/advisories">n3rada/advisories: ★1</a>
 * <a href="https://github.com/n3rada/msauth-browser">n3rada/msauth-browser: ★1</a>
+* <a href="https://github.com/n3rada/mssqlclient-ng">n3rada/mssqlclient-ng: ★1</a>
 * <a href="https://github.com/n3rada/NetExec-Wiki">n3rada/NetExec-Wiki: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
