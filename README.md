@@ -18,7 +18,6 @@ Some tools fit neatly into categories, while others belong in a grab bag of util
 
 ----
 
-<div align="center">
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/emoji-only-commit.md"><img src="https://my-badges.github.io/my-badges/emoji-only-commit.png" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
@@ -48,7 +47,6 @@ Some tools fit neatly into categories, while others belong in a grab bag of util
 <a href="my-badges/delorean.md"><img src="https://my-badges.github.io/my-badges/delorean.png" alt="I committed on the day Doctor Emmett Brown invented the flux capacitor!" title="I committed on the day Doctor Emmett Brown invented the flux capacitor!" width="64"></a>
 <a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
 <!-- my-badges end -->
-</div>
 
 ---
 
