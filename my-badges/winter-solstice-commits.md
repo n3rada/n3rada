@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="128">
-<strong>I commit in the evening.</strong>
+<img src="https://my-badges.github.io/my-badges/winter-solstice-commits.png" alt="I commit in the Winter solstice." title="I commit in the Winter solstice." width="128">
+<strong>I commit in the Winter solstice.</strong>
 <br><br>
 
 Commits:

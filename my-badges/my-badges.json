@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 555 times)\n2. add (used 309 times)\n3. enhance (used 192 times)\n4. readme.md (used 187 times)\n5. handling (used 177 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 560 times)\n2. add (used 322 times)\n3. enhance (used 205 times)\n4. readme.md (used 190 times)\n5. handling (used 187 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/dc6b76a0d4d595f44e9c00e07ebdb89d5605f9a5\">dc6b76a</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/1c5d0c3f306d43e165d43c141b8fcfa9f3d70359\">1c5d0c3</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/4b25da923277013862db52cf89fe3e783bebe091\">4b25da9</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/7e55c18ac394e2c5e7ea9777b7cbb5db01dba678\">7e55c18</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/4a11046590a79038358ef1f136b3dd34f6b3c9e4\">4a11046</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/e04ab6f679fa83e790e8cd78627e8edeb1694284\">e04ab6f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/6dad30fc66d434c6cdeaeca5d0e929a904607211\">6dad30f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/1270bdd80966d74cca81b58c08efdcc6df833f0d\">1270bdd</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/f0498a2a0d07548d8c941e9417d50f936b348664\">f0498a2</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/8ef1d349f329c99de1424ce287df46bea66d5a7c\">8ef1d34</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/9e4d55f52e761690af7c01c43927ef3aee17d834\">9e4d55f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/2a6baa6336fe89f411a24970bdcdc1fa72eac077\">2a6baa6</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -187,5 +187,12 @@
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c599539d5709e188b8aad06d0b969179978e0f06\">c599539</a>: chore: add header comment to procedures.py for clarity",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "winter-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Winter solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/6dad30fc66d434c6cdeaeca5d0e929a904607211\">6dad30f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/1270bdd80966d74cca81b58c08efdcc6df833f0d\">1270bdd</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/f0498a2a0d07548d8c941e9417d50f936b348664\">f0498a2</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/8ef1d349f329c99de1424ce287df46bea66d5a7c\">8ef1d34</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/9e4d55f52e761690af7c01c43927ef3aee17d834\">9e4d55f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/2a6baa6336fe89f411a24970bdcdc1fa72eac077\">2a6baa6</a>",
+    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
   }
 ]

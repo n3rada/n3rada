@@ -50,6 +50,7 @@ Some tools fit neatly into categories, while others belong in a grab bag of util
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
 <a href="my-badges/delorean.md"><img src="https://my-badges.github.io/my-badges/delorean.png" alt="I committed on the day Doctor Emmett Brown invented the flux capacitor!" title="I committed on the day Doctor Emmett Brown invented the flux capacitor!" width="64"></a>
 <a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
+<a href="my-badges/winter-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/winter-solstice-commits.png" alt="I commit in the Winter solstice." title="I commit in the Winter solstice." width="64"></a>
 <!-- my-badges end -->
 
 ---
