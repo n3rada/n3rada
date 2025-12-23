@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/n3rada/SearchToolkit/commit/24f83516ed9b9717e8538c2cdcfb374865d9270a">24f8351</a>
+- <a href="https://github.com/n3rada/SearchToolkit/commit/fa6f1e0816ca5e6bb43d54d7ffba330c37a8310a">fa6f1e0</a>
 - <a href="https://github.com/n3rada/toboggan/commit/6dad30fc66d434c6cdeaeca5d0e929a904607211">6dad30f</a>
 - <a href="https://github.com/n3rada/toboggan/commit/1270bdd80966d74cca81b58c08efdcc6df833f0d">1270bdd</a>
 - <a href="https://github.com/n3rada/toboggan/commit/f0498a2a0d07548d8c941e9417d50f936b348664">f0498a2</a>
 - <a href="https://github.com/n3rada/n3rada/commit/8ef1d349f329c99de1424ce287df46bea66d5a7c">8ef1d34</a>
-- <a href="https://github.com/n3rada/toboggan/commit/9e4d55f52e761690af7c01c43927ef3aee17d834">9e4d55f</a>
-- <a href="https://github.com/n3rada/toboggan/commit/2a6baa6336fe89f411a24970bdcdc1fa72eac077">2a6baa6</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
