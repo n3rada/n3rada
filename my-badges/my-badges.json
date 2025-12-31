@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 580 times)\n2. add (used 346 times)\n3. enhance (used 213 times)\n4. handling (used 209 times)\n5. readme.md (used 192 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 584 times)\n2. add (used 349 times)\n3. enhance (used 214 times)\n4. handling (used 209 times)\n5. readme.md (used 192 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/099f65e6d16b0805a1783b48561dfbd8fdaae919\">099f65e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/6e2d28bed8d018b736ddc1d20ca40ab9762115ce\">6e2d28b</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/2202b53dafe326eedcebefb3735338fa882e7e75\">2202b53</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/57a09dcd8f51c469ac6b3e169004ea738eabd57f\">57a09dc</a>\n- <a href=\"https://github.com/n3rada/msauth-browser/commit/6c7327ff3a001e8afbbb96683925677e2bb8a5bc\">6c7327f</a>\n- <a href=\"https://github.com/n3rada/msauth-browser/commit/57157c5ddd74bbaa9367956bf10caa90e343e5e4\">57157c5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0cb3c1f805b32b8274a2534094c0e86604d5560e\">0cb3c1f</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/d14c025c80869162d3a4d5b862eadf1954d30e33\">d14c025</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0e1910bc90bbfa48015993097a92b3b253933482\">0e1910b</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/099f65e6d16b0805a1783b48561dfbd8fdaae919\">099f65e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/6e2d28bed8d018b736ddc1d20ca40ab9762115ce\">6e2d28b</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/2202b53dafe326eedcebefb3735338fa882e7e75\">2202b53</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -194,5 +194,19 @@
     "desc": "I commit in the Winter solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/6dad30fc66d434c6cdeaeca5d0e929a904607211\">6dad30f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/1270bdd80966d74cca81b58c08efdcc6df833f0d\">1270bdd</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/f0498a2a0d07548d8c941e9417d50f936b348664\">f0498a2</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/8ef1d349f329c99de1424ce287df46bea66d5a7c\">8ef1d34</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/9e4d55f52e761690af7c01c43927ef3aee17d834\">9e4d55f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/2a6baa6336fe89f411a24970bdcdc1fa72eac077\">2a6baa6</a>",
     "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you! Commits of force:",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/c372672765dae0ced1b47f2902096f3446b0e42d\">c372672</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/af2b63e28a07dbcd6b8153e6f82bb5406868e966\">af2b63e</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
