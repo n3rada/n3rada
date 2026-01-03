@@ -208,5 +208,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/af2b63e28a07dbcd6b8153e6f82bb5406868e966\">af2b63e</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/cloudflare/workerd/pull/5678\">#5678</a>: Fix header corruption due to comma treated as header separators",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   }
 ]
