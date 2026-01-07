@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 599 times)\n2. add (used 368 times)\n3. enhance (used 223 times)\n4. handling (used 214 times)\n5. logging (used 196 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 608 times)\n2. add (used 376 times)\n3. enhance (used 233 times)\n4. handling (used 216 times)\n5. logging (used 202 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -215,5 +215,12 @@
     "desc": "I have participated in pull requests with 5 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/cloudflare/workerd/pull/5678\">#5678</a>: Fix header corruption due to comma treated as header separators",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/63e3d957efce5a5a4b13e858cd2beb266fd4b76c\">63e3d95</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
