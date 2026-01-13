@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 641 times)\n2. add (used 408 times)\n3. enhance (used 264 times)\n4. logging (used 241 times)\n5. handling (used 223 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 678 times)\n2. add (used 434 times)\n3. enhance (used 291 times)\n4. logging (used 264 times)\n5. handling (used 241 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -38,14 +38,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/f12ce5e9adb6f72fd9533383810408f28cf42cb6\">f12ce5e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/02ee663978fa1dc2b8af2a66e948ea178a0bd58e\">02ee663</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/38af36ece28e30c9068b71c11592665397658fb2\">38af36e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/bc7414dd4481da0de96c0116c3d5a8d16df80b20\">bc7414d</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a1e2a0d411ed3f2ac8de750e673b54fd8132353c\">a1e2a0d</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0cb3c1f805b32b8274a2534094c0e86604d5560e\">0cb3c1f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/3be6101a7f75ca14fcb41d49add07c388cf0ed2c\">3be6101</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/f12ce5e9adb6f72fd9533383810408f28cf42cb6\">f12ce5e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/02ee663978fa1dc2b8af2a66e948ea178a0bd58e\">02ee663</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/38af36ece28e30c9068b71c11592665397658fb2\">38af36e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/bc7414dd4481da0de96c0116c3d5a8d16df80b20\">bc7414d</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a1e2a0d411ed3f2ac8de750e673b54fd8132353c\">a1e2a0d</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/5d964bc8899d88f108c9f12888c1c4c2680ef02c\">5d964bc</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/dc4108f898d3f6df9344c91a56621d3a39f43ebb\">dc4108f</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/83d0d05dfb277f8410d6e3506a905c5591db34a8\">83d0d05</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/315168e47db9bb23a9f269290433f0ff4b5fb369\">315168e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/f3a08f12b9e286ad5412d1620cb5e1cea8110674\">f3a08f1</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/bd9de1264a38e68fd350a7e7311052edf118bc71\">bd9de12</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a0efe24c23e0d3987b68ae6e0c8b8913088743d1\">a0efe24</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/d9db32e2b25aeaf203a14d217988ee0cb3072f23\">d9db32e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/f98d687614da5f83372263592bbe7cf0a51800a4\">f98d687</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a5b564195fcef74927d4c608941b5860b028561e\">a5b5641</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/3538051e6b12551b18a7b4ca451d68aab94e0885\">3538051</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/c9038b83cec5bb88150b17565e8118d03b33652a\">c9038b8</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
