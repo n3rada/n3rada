@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/MSSQLand/commit/a0efe24c23e0d3987b68ae6e0c8b8913088743d1">a0efe24</a>
-- <a href="https://github.com/n3rada/MSSQLand/commit/d9db32e2b25aeaf203a14d217988ee0cb3072f23">d9db32e</a>
-- <a href="https://github.com/n3rada/MSSQLand/commit/f98d687614da5f83372263592bbe7cf0a51800a4">f98d687</a>
-- <a href="https://github.com/n3rada/MSSQLand/commit/a5b564195fcef74927d4c608941b5860b028561e">a5b5641</a>
-- <a href="https://github.com/n3rada/MSSQLand/commit/3538051e6b12551b18a7b4ca451d68aab94e0885">3538051</a>
-- <a href="https://github.com/n3rada/MSSQLand/commit/c9038b83cec5bb88150b17565e8118d03b33652a">c9038b8</a>
+- <a href="https://github.com/n3rada/MSSQLand/commit/fadf40ef487325b924ef6ecac4f8bc3d925ef7e2">fadf40e</a>
+- <a href="https://github.com/n3rada/MSSQLand/commit/77ec82943da0f57f9c2dfcbd77cf186258fed40c">77ec829</a>
+- <a href="https://github.com/n3rada/MSSQLand/commit/69dcac26b1d8b8c4dad2cc97d3933d90b3f00b85">69dcac2</a>
+- <a href="https://github.com/n3rada/MSSQLand/commit/65104cb288fc6d38d84258739fce96c7b6dd2f53">65104cb</a>
+- <a href="https://github.com/n3rada/MSSQLand/commit/4e39da6f112b37cb11c14a414d6503423f0c3afe">4e39da6</a>
+- <a href="https://github.com/n3rada/MSSQLand/commit/833beaf2453476188f9f92affcc1fc766e5ba091">833beaf</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

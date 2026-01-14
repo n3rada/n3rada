@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ungdev/ScribUTT/commit/bfb5d4f597638cc76ed901e5d80413a07fef083b">bfb5d4f</a>
+- <a href="https://github.com/n3rada/MSSQLand/commit/900d66fbbfb6f5d69f3c3122d5455939e52317ea">900d66f</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
