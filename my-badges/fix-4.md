@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/MSSQLand/commit/85e5b7933af8ceae09c2d262700d247d7b45cfbe">85e5b79</a>: fix: Reorganize SQL queries for clarity and update OS Version output handling
-- <a href="https://github.com/n3rada/MSSQLand/commit/b4583f3df596c42c7404d31456c99c015f09bfd3">b4583f3</a>: fix: Remove line breaks from OS Version Number output for improved readability
-- <a href="https://github.com/n3rada/MSSQLand/commit/62cf4499b22849b33cd8ff494ca71c04ada5f317">62cf449</a>: fix: Update SQL queries for major version and OS details to use SERVERPROPERTY for accuracy
-- <a href="https://github.com/n3rada/MSSQLand/commit/015d2322b5abb386c12d6c342eb9c0569ec50ae4">015d232</a>: fix: Enhance database query to include visibility and improve output order
+- <a href="https://github.com/n3rada/MSSQLand/commit/4de4dd3dc4125ec8ca9bb7a270ef546f3ef389ec">4de4dd3</a>: fix(FindSqlServers): enhance server discovery by prioritizing dnshostname for FQDN and removing discovery method tracking
+- <a href="https://github.com/n3rada/MSSQLand/commit/010141368c43e00cfb3d8a4e07fa79cd82dbbd8f">0101413</a>: fix(FindSqlServers): enhance discovery methods to include description and OU checks, and improve logging details
+- <a href="https://github.com/n3rada/MSSQLand/commit/d70a672489a5cc36f296f2d0b49e491262655f2b">d70a672</a>: fix(FindSqlServers): update LDAP filter to include computers with 'SQL' in servicePrincipalName
+- <a href="https://github.com/n3rada/MSSQLand/commit/9a7cb573f05495695a9c34a82fd76e6b06132fd8">9a7cb57</a>: fix(FindSqlServers): update discovery methods to include computers with 'SQL' in name, description, or OU
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

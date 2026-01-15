@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 688 times)\n2. add (used 436 times)\n3. enhance (used 299 times)\n4. logging (used 265 times)\n5. handling (used 247 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 711 times)\n2. add (used 465 times)\n3. enhance (used 330 times)\n4. logging (used 310 times)\n5. handling (used 273 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/fadf40ef487325b924ef6ecac4f8bc3d925ef7e2\">fadf40e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/77ec82943da0f57f9c2dfcbd77cf186258fed40c\">77ec829</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/69dcac26b1d8b8c4dad2cc97d3933d90b3f00b85\">69dcac2</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/65104cb288fc6d38d84258739fce96c7b6dd2f53\">65104cb</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/4e39da6f112b37cb11c14a414d6503423f0c3afe\">4e39da6</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/833beaf2453476188f9f92affcc1fc766e5ba091\">833beaf</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/workerd/commit/b91473a7d5dbf9dcf3da115877f427936cb00c57\">b91473a</a>\n- <a href=\"https://github.com/n3rada/workerd/commit/b26d33e271d23902571b5172580871079a1a1620\">b26d33e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/fadf40ef487325b924ef6ecac4f8bc3d925ef7e2\">fadf40e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/77ec82943da0f57f9c2dfcbd77cf186258fed40c\">77ec829</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/69dcac26b1d8b8c4dad2cc97d3933d90b3f00b85\">69dcac2</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/65104cb288fc6d38d84258739fce96c7b6dd2f53\">65104cb</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/a62e8228b233a2989292c5a3a50fecb799f11619\">a62e822</a>: fix: handle exceptions during SQL login creation and log password setting\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/0317f32614cc9ee241242adcf76b752457703899\">0317f32</a>: fix: update user retrieval method for consistency in impersonation checks",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/workerd/commit/b91473a7d5dbf9dcf3da115877f427936cb00c57\">b91473a</a>: fix(tests): improve header handling in Request tests to preserve commas and distinct Set-Cookie values\n- <a href=\"https://github.com/n3rada/workerd/commit/b26d33e271d23902571b5172580871079a1a1620\">b26d33e</a>: fix(python): preserve commas in Request headers with compat flag",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/85e5b7933af8ceae09c2d262700d247d7b45cfbe\">85e5b79</a>: fix: Reorganize SQL queries for clarity and update OS Version output handling\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/b4583f3df596c42c7404d31456c99c015f09bfd3\">b4583f3</a>: fix: Remove line breaks from OS Version Number output for improved readability\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/62cf4499b22849b33cd8ff494ca71c04ada5f317\">62cf449</a>: fix: Update SQL queries for major version and OS details to use SERVERPROPERTY for accuracy\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/015d2322b5abb386c12d6c342eb9c0569ec50ae4\">015d232</a>: fix: Enhance database query to include visibility and improve output order",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/4de4dd3dc4125ec8ca9bb7a270ef546f3ef389ec\">4de4dd3</a>: fix(FindSqlServers): enhance server discovery by prioritizing dnshostname for FQDN and removing discovery method tracking\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/010141368c43e00cfb3d8a4e07fa79cd82dbbd8f\">0101413</a>: fix(FindSqlServers): enhance discovery methods to include description and OU checks, and improve logging details\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/d70a672489a5cc36f296f2d0b49e491262655f2b\">d70a672</a>: fix(FindSqlServers): update LDAP filter to include computers with 'SQL' in servicePrincipalName\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9a7cb573f05495695a9c34a82fd76e6b06132fd8\">9a7cb57</a>: fix(FindSqlServers): update discovery methods to include computers with 'SQL' in name, description, or OU",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "fix-5",
     "tier": 4,
     "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/66bf3f901771571cd0e2c1e917269490a87bfd0a\">66bf3f9</a>: fix: remove log_level parameter from Terminal class initialization\n- <a href=\"https://github.com/n3rada/toboggan/commit/c538dfe70c8e89ee0a63bb2515136fa6036e4cf0\">c538dfe</a>: fix: enhance docstrings for Terminal class and its methods\n- <a href=\"https://github.com/n3rada/toboggan/commit/90b3598df2e129a5a8d2b1b4f2c52c7b9b3870fb\">90b3598</a>: fix: improve docstrings and refactor user/hostname validation in Target class\n- <a href=\"https://github.com/n3rada/toboggan/commit/45a1d21315a0a726e94aaa182647f5d191bea5d0\">45a1d21</a>: fix: Unnecessary \"elif\" after \"return\"\n- <a href=\"https://github.com/n3rada/toboggan/commit/2fd5b3ea08d85bd158b6772851bddef71a0466b8\">2fd5b3e</a>: fix: validate user and hostname inputs in Target class constructor",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/d70bdc330b5563e5d98d9fc67b54e73fd1fa7d67\">d70bdc3</a>: fix(AuthenticationService): add null check for connection to prevent null reference exceptions\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/dc57d2e06812649d3735eef967cbbc4f1919eec3\">dc57d2e</a>: fix(ProbeCredentials): add missing new line in logging for SQL Server probing\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9335c8a0a4f0b90de42f4931fae7094eec294257\">9335c8a</a>: fix(ProbeCredentials): update connection timeout for probing to allow for network latency\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/3c2f60f3d9c4f9ae38538cd98e6ed75202af2ae2\">3c2f60f</a>: fix(ProbeCredentials): update logging level for SQL Server probing\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/e227b013cbe2af89378ff826c9bfa7440dec8450\">e227b01</a>: fix(ProbeCredentials): adjust logging and error handling for probe authentication",
     "image": "https://my-badges.github.io/my-badges/fix-5.png"
   },
   {
