@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 711 times)\n2. add (used 465 times)\n3. enhance (used 330 times)\n4. logging (used 310 times)\n5. handling (used 273 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 713 times)\n2. add (used 473 times)\n3. enhance (used 339 times)\n4. logging (used 323 times)\n5. handling (used 288 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/4de4dd3dc4125ec8ca9bb7a270ef546f3ef389ec\">4de4dd3</a>: fix(FindSqlServers): enhance server discovery by prioritizing dnshostname for FQDN and removing discovery method tracking\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/010141368c43e00cfb3d8a4e07fa79cd82dbbd8f\">0101413</a>: fix(FindSqlServers): enhance discovery methods to include description and OU checks, and improve logging details\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/d70a672489a5cc36f296f2d0b49e491262655f2b\">d70a672</a>: fix(FindSqlServers): update LDAP filter to include computers with 'SQL' in servicePrincipalName\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9a7cb573f05495695a9c34a82fd76e6b06132fd8\">9a7cb57</a>: fix(FindSqlServers): update discovery methods to include computers with 'SQL' in name, description, or OU",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/1e4af937ba8ae4e5b0de2d6fb74e3963eb66fb80\">1e4af93</a>: fix(Info): improve permission-denied error handling in database info retrieval\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/30311f0255eae4eb49f1d588661f2881107f4350\">30311f0</a>: fix(QueryService): prevent duplicate RPC warning log messages\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/61eac117b77cda38fc0fea6c390528fb6d8070bc\">61eac11</a>: fix(Info): handle permission-denied errors silently in database info retrieval\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/ae011b96391708d124f20fd0c012008ae698ea86\">ae011b9</a>: fix(Program): correct formatting of banner log output",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
@@ -236,5 +236,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/900d66fbbfb6f5d69f3c3122d5455939e52317ea\">900d66f</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/n3rada/MSSQLand/commit/fddbe35177dead89182ff31ba2cf6c6dd3520b95\">fddbe35177<strong>dead</strong>89182ff31ba2cf6c6dd3520b95</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   }
 ]

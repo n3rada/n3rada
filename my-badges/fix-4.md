@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/MSSQLand/commit/4de4dd3dc4125ec8ca9bb7a270ef546f3ef389ec">4de4dd3</a>: fix(FindSqlServers): enhance server discovery by prioritizing dnshostname for FQDN and removing discovery method tracking
-- <a href="https://github.com/n3rada/MSSQLand/commit/010141368c43e00cfb3d8a4e07fa79cd82dbbd8f">0101413</a>: fix(FindSqlServers): enhance discovery methods to include description and OU checks, and improve logging details
-- <a href="https://github.com/n3rada/MSSQLand/commit/d70a672489a5cc36f296f2d0b49e491262655f2b">d70a672</a>: fix(FindSqlServers): update LDAP filter to include computers with 'SQL' in servicePrincipalName
-- <a href="https://github.com/n3rada/MSSQLand/commit/9a7cb573f05495695a9c34a82fd76e6b06132fd8">9a7cb57</a>: fix(FindSqlServers): update discovery methods to include computers with 'SQL' in name, description, or OU
+- <a href="https://github.com/n3rada/MSSQLand/commit/1e4af937ba8ae4e5b0de2d6fb74e3963eb66fb80">1e4af93</a>: fix(Info): improve permission-denied error handling in database info retrieval
+- <a href="https://github.com/n3rada/MSSQLand/commit/30311f0255eae4eb49f1d588661f2881107f4350">30311f0</a>: fix(QueryService): prevent duplicate RPC warning log messages
+- <a href="https://github.com/n3rada/MSSQLand/commit/61eac117b77cda38fc0fea6c390528fb6d8070bc">61eac11</a>: fix(Info): handle permission-denied errors silently in database info retrieval
+- <a href="https://github.com/n3rada/MSSQLand/commit/ae011b96391708d124f20fd0c012008ae698ea86">ae011b9</a>: fix(Program): correct formatting of banner log output
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
