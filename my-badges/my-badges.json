@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 750 times)\n2. add (used 500 times)\n3. enhance (used 372 times)\n4. logging (used 360 times)\n5. handling (used 310 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 760 times)\n2. add (used 503 times)\n3. enhance (used 373 times)\n4. logging (used 368 times)\n5. handling (used 311 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "fix-5",
     "tier": 4,
     "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/d70bdc330b5563e5d98d9fc67b54e73fd1fa7d67\">d70bdc3</a>: fix(AuthenticationService): add null check for connection to prevent null reference exceptions\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/dc57d2e06812649d3735eef967cbbc4f1919eec3\">dc57d2e</a>: fix(ProbeCredentials): add missing new line in logging for SQL Server probing\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9335c8a0a4f0b90de42f4931fae7094eec294257\">9335c8a</a>: fix(ProbeCredentials): update connection timeout for probing to allow for network latency\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/3c2f60f3d9c4f9ae38538cd98e6ed75202af2ae2\">3c2f60f</a>: fix(ProbeCredentials): update logging level for SQL Server probing\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/e227b013cbe2af89378ff826c9bfa7440dec8450\">e227b01</a>: fix(ProbeCredentials): adjust logging and error handling for probe authentication",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/b9331d21ed06e54342e2eec47608b85766886005\">b9331d2</a>: fix(FileRead): Let argument binding do the things\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/2f71718f3fa095dd3137179153bc7b859ba7468c\">2f71718</a>: fix: logging query\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/421e349817aafc9f8088c3eda8658a4ddd4ff502\">421e349</a>: fix(Tree) File argument case\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9d74485c853e247f56838f6d1721b5b1d5ee9d7b\">9d74485</a>: fix: boolean parsing\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/b794fc0e0e9ff4b41b1f0403dae42853aa246798\">b794fc0</a>: fix(Tree): Argument parsing",
     "image": "https://my-badges.github.io/my-badges/fix-5.png"
   },
   {
