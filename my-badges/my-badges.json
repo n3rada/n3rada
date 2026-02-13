@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 768 times)\n2. add (used 504 times)\n3. enhance (used 377 times)\n4. logging (used 372 times)\n5. handling (used 317 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 777 times)\n2. add (used 506 times)\n3. enhance (used 377 times)\n4. logging (used 372 times)\n5. handling (used 318 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/819377d5c9d115a2f439ff372aa628bcc2e92427\">819377d</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/3be6101a7f75ca14fcb41d49add07c388cf0ed2c\">3be6101</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/f12ce5e9adb6f72fd9533383810408f28cf42cb6\">f12ce5e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/02ee663978fa1dc2b8af2a66e948ea178a0bd58e\">02ee663</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/38af36ece28e30c9068b71c11592665397658fb2\">38af36e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/bc7414dd4481da0de96c0116c3d5a8d16df80b20\">bc7414d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/e8976fbcf77f5cde821b1c5908cb9099b7cf9254\">e8976fb</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/8b78c75c2251da36a12a22fc458efc18d2bdc4b8\">8b78c75</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/62fd9adfb3782c490d83d86ae63d67cf43273538\">62fd9ad</a>\n- <a href=\"https://github.com/n3rada/ropcatalog/commit/8941e741f40bb584ec6e14c821987d2033f49fab\">8941e74</a>\n- <a href=\"https://github.com/n3rada/sapsxpg/commit/a2e15b6d2a23e1b17eebc843470b4664c9560a4d\">a2e15b6</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0a1dfb841b24fc2111fca871ecd24cc952eb8432\">0a1dfb8</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
