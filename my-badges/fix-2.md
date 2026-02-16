@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/workerd/commit/b91473a7d5dbf9dcf3da115877f427936cb00c57">b91473a</a>: fix(tests): improve header handling in Request tests to preserve commas and distinct Set-Cookie values
-- <a href="https://github.com/n3rada/workerd/commit/b26d33e271d23902571b5172580871079a1a1620">b26d33e</a>: fix(python): preserve commas in Request headers with compat flag
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/a62e8228b233a2989292c5a3a50fecb799f11619">a62e822</a>: fix: handle exceptions during SQL login creation and log password setting
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/0317f32614cc9ee241242adcf76b752457703899">0317f32</a>: fix: update user retrieval method for consistency in impersonation checks
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
