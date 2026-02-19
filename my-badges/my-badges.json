@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 782 times)\n2. add (used 516 times)\n3. enhance (used 379 times)\n4. logging (used 373 times)\n5. handling (used 317 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 799 times)\n2. add (used 519 times)\n3. enhance (used 381 times)\n4. logging (used 373 times)\n5. handling (used 317 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★53</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★16</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★14</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★12</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★3</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/msauth-browser\">n3rada/msauth-browser: ★1</a>\n* <a href=\"https://github.com/n3rada/mssqlclient-ng\">n3rada/mssqlclient-ng: ★1</a>\n* <a href=\"https://github.com/n3rada/NetExec-Wiki\">n3rada/NetExec-Wiki: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★54</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★16</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★14</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★13</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★3</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★3</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/msauth-browser\">n3rada/msauth-browser: ★1</a>\n* <a href=\"https://github.com/n3rada/mssqlclient-ng\">n3rada/mssqlclient-ng: ★1</a>\n* <a href=\"https://github.com/n3rada/NetExec-Wiki\">n3rada/NetExec-Wiki: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/msgraphx/commit/9801b1de81590bae1eb79417584a70216b25eb6c\">9801b1d</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c0af33ed1783b33c9bacb3f069cef96d4f2aebdf\">c0af33e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/622b8a5e76cf48700500e0762e4f4b9867a5693e\">622b8a5</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/064a51fdc173f178d0675cf824e88bb60158575d\">064a51f</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0a977497db53be16e9b5b9db7c4b00744ea56a55\">0a97749</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/85b09b8ee5d3e86dfe6e4baf39851527d9b2093e\">85b09b8</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a78df4e3e4b36dd8c3d3243c798c3c0cc272c95d\">a78df4e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/4d7892a9d0aea37ab8d80eb2d931bed98fe113ba\">4d7892a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/msgraphx/commit/9801b1de81590bae1eb79417584a70216b25eb6c\">9801b1d</a>\n- <a href=\"https://github.com/n3rada/GraphSpy/commit/9dc2f0276b994423d289f287603285efab58be7b\">9dc2f02</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c0af33ed1783b33c9bacb3f069cef96d4f2aebdf\">c0af33e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/622b8a5e76cf48700500e0762e4f4b9867a5693e\">622b8a5</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/064a51fdc173f178d0675cf824e88bb60158575d\">064a51f</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0a977497db53be16e9b5b9db7c4b00744ea56a55\">0a97749</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/85b09b8ee5d3e86dfe6e4baf39851527d9b2093e\">85b09b8</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a78df4e3e4b36dd8c3d3243c798c3c0cc272c95d\">a78df4e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/4d7892a9d0aea37ab8d80eb2d931bed98fe113ba\">4d7892a</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -185,7 +185,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/GraphSpy/commit/7f68f1add3d466379efbdc9fcf7933d643e52302\">7f68f1a</a>: chore: update package versions in poetry.lock",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c599539d5709e188b8aad06d0b969179978e0f06\">c599539</a>: chore: add header comment to procedures.py for clarity",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
