@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 810 times)\n2. add (used 532 times)\n3. enhance (used 386 times)\n4. logging (used 383 times)\n5. handling (used 323 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 817 times)\n2. add (used 542 times)\n3. enhance (used 390 times)\n4. logging (used 389 times)\n5. handling (used 327 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -185,7 +185,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c599539d5709e188b8aad06d0b969179978e0f06\">c599539</a>: chore: add header comment to procedures.py for clarity",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/GraphSpy/commit/ce4fad169dbac62e1bb11f94449a050050112f38\">ce4fad1</a>: chore: follow XDG base directory spec for data storage",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {

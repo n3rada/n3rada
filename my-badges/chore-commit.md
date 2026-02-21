@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/mssqlclient-ng/commit/c599539d5709e188b8aad06d0b969179978e0f06">c599539</a>: chore: add header comment to procedures.py for clarity
+- <a href="https://github.com/n3rada/GraphSpy/commit/ce4fad169dbac62e1bb11f94449a050050112f38">ce4fad1</a>: chore: follow XDG base directory spec for data storage
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
