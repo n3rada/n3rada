@@ -1,5 +1,9 @@
 # 👀
 
+<div style="padding: 10px;">
+<strong>📫 Reach Me At:</strong> <code>/dev/null</code> - or find your way to.
+</div>
+
 ## 📦 Toolbox
 
 ###  Your RCE Companion
@@ -60,15 +64,3 @@ Some tools fit neatly into categories, while others belong in a grab bag of util
 <a href="my-badges/dead-commit.md"><img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; once." title="I pushed a commit with &quot;dead&quot; once." width="64"></a>
 <!-- my-badges end -->
 
----
-
-<div align="center">
-<div style="padding: 10px;">
-<strong>📫 Reach Me At:</strong> <code>/dev/null</code> - or find your way to.
-</div>
-
-<div style="padding: 10px;">
-<em>You cannot change the past but you can sculpt your future</em>
-</div>
-
-</div>
