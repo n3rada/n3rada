@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 882 times)\n2. add (used 560 times)\n3. enhance (used 398 times)\n4. logging (used 398 times)\n5. handling (used 331 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 885 times)\n2. add (used 564 times)\n3. enhance (used 400 times)\n4. logging (used 400 times)\n5. handling (used 334 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/toboggan/commit/0ef40a0c8254ab44436f03681ee8484a36fc6d98\">0ef40a0</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/7506a07eaa96f706b361f08473bd8635dbb6de8f\">7506a07</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/fc0a8a43d910908dc0ed036781206ce872f812fc\">fc0a8a4</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/e8976fbcf77f5cde821b1c5908cb9099b7cf9254\">e8976fb</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/8b78c75c2251da36a12a22fc458efc18d2bdc4b8\">8b78c75</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/62fd9adfb3782c490d83d86ae63d67cf43273538\">62fd9ad</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/32db3b6e2978ecb56adf2a3e5dff3e040359e3dc\">32db3b6</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/b3cdaf475efdd2793b0a89c562736c4911204d26\">b3cdaf4</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/df2cfecfa374e10bf9303ccb266249562b4ce974\">df2cfec</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9902605b517f551fb255896665520e43564bfe82\">9902605</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/0ef40a0c8254ab44436f03681ee8484a36fc6d98\">0ef40a0</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/7506a07eaa96f706b361f08473bd8635dbb6de8f\">7506a07</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -243,5 +243,12 @@
     "desc": "I pushed a commit with \"dead\" once.",
     "body": "- <a href=\"https://github.com/n3rada/MSSQLand/commit/fddbe35177dead89182ff31ba2cf6c6dd3520b95\">fddbe35177<strong>dead</strong>89182ff31ba2cf6c6dd3520b95</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/bff2a5dd0550fd8afe1ac9c0572ca5bcd59c825b\">bff2a5d</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/1b9d8b99efa9f487a4eeb7d1d6a770df3ad522a5\">1b9d8b9</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/96fd4aa40989cdb2113e456ae0aa95719c7dd1c6\">96fd4aa</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/733f2d498fdaa489c025d2cba96b7838eb7b30c2\">733f2d4</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   }
 ]
