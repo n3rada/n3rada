@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 888 times)\n2. add (used 572 times)\n3. logging (used 402 times)\n4. enhance (used 400 times)\n5. handling (used 334 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 890 times)\n2. add (used 574 times)\n3. logging (used 402 times)\n4. enhance (used 400 times)\n5. handling (used 335 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -110,13 +110,6 @@
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "public-keys-3",
-    "tier": 3,
-    "desc": "I have three public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   },
   {
     "id": "mass-delete-commit",
@@ -250,5 +243,12 @@
     "desc": "I made cosmetic commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/dac51c50ed1dc28f93428f259bd8b6391f3b32ac\">dac51c5</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/bff2a5dd0550fd8afe1ac9c0572ca5bcd59c825b\">bff2a5d</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/1b9d8b99efa9f487a4eeb7d1d6a770df3ad522a5\">1b9d8b9</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/96fd4aa40989cdb2113e456ae0aa95719c7dd1c6\">96fd4aa</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/733f2d498fdaa489c025d2cba96b7838eb7b30c2\">733f2d4</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
   }
 ]
