@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 890 times)\n2. add (used 574 times)\n3. logging (used 402 times)\n4. enhance (used 400 times)\n5. handling (used 335 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 895 times)\n2. add (used 658 times)\n3. logging (used 402 times)\n4. enhance (used 400 times)\n5. handling (used 335 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/msgraphx/commit/9801b1de81590bae1eb79417584a70216b25eb6c\">9801b1d</a>\n- <a href=\"https://github.com/n3rada/GraphSpy/commit/9dc2f0276b994423d289f287603285efab58be7b\">9dc2f02</a>\n- <a href=\"https://github.com/n3rada/impacket/commit/9c2d8b61ee9f13dc93744f36748bd4f49a5e9bd5\">9c2d8b6</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c0af33ed1783b33c9bacb3f069cef96d4f2aebdf\">c0af33e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/622b8a5e76cf48700500e0762e4f4b9867a5693e\">622b8a5</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/064a51fdc173f178d0675cf824e88bb60158575d\">064a51f</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0a977497db53be16e9b5b9db7c4b00744ea56a55\">0a97749</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/85b09b8ee5d3e86dfe6e4baf39851527d9b2093e\">85b09b8</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a78df4e3e4b36dd8c3d3243c798c3c0cc272c95d\">a78df4e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/4d7892a9d0aea37ab8d80eb2d931bed98fe113ba\">4d7892a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/msgraphx/commit/9801b1de81590bae1eb79417584a70216b25eb6c\">9801b1d</a>\n- <a href=\"https://github.com/n3rada/GraphSpy/commit/9dc2f0276b994423d289f287603285efab58be7b\">9dc2f02</a>\n- <a href=\"https://github.com/n3rada/impacket/commit/9c2d8b61ee9f13dc93744f36748bd4f49a5e9bd5\">9c2d8b6</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/f2a0a57f6ad3703823fc19cf38da59cfee9e86a1\">f2a0a57</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/f26a5135ab00a382540c5410bea16b9bdbc3b500\">f26a513</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/8fa7cf9b3078faa7ffd4b4a927ea3dea16809c4f\">8fa7cf9</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c0af33ed1783b33c9bacb3f069cef96d4f2aebdf\">c0af33e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/622b8a5e76cf48700500e0762e4f4b9867a5693e\">622b8a5</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/064a51fdc173f178d0675cf824e88bb60158575d\">064a51f</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/0a977497db53be16e9b5b9db7c4b00744ea56a55\">0a97749</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/85b09b8ee5d3e86dfe6e4baf39851527d9b2093e\">85b09b8</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/a78df4e3e4b36dd8c3d3243c798c3c0cc272c95d\">a78df4e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/4d7892a9d0aea37ab8d80eb2d931bed98fe113ba\">4d7892a</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -241,7 +241,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/dac51c50ed1dc28f93428f259bd8b6391f3b32ac\">dac51c5</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/bff2a5dd0550fd8afe1ac9c0572ca5bcd59c825b\">bff2a5d</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/1b9d8b99efa9f487a4eeb7d1d6a770df3ad522a5\">1b9d8b9</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/96fd4aa40989cdb2113e456ae0aa95719c7dd1c6\">96fd4aa</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/733f2d498fdaa489c025d2cba96b7838eb7b30c2\">733f2d4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/msauth-browser/commit/25e15295970033ae573af2cbfb412dfaf5d0f054\">25e1529</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/498bfc0a04c37764bbbcc298e1c6eb8e768e262f\">498bfc0</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/dac51c50ed1dc28f93428f259bd8b6391f3b32ac\">dac51c5</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/bff2a5dd0550fd8afe1ac9c0572ca5bcd59c825b\">bff2a5d</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/1b9d8b99efa9f487a4eeb7d1d6a770df3ad522a5\">1b9d8b9</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/96fd4aa40989cdb2113e456ae0aa95719c7dd1c6\">96fd4aa</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {

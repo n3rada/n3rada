@@ -7,6 +7,9 @@ Commits:
 - <a href="https://github.com/n3rada/msgraphx/commit/9801b1de81590bae1eb79417584a70216b25eb6c">9801b1d</a>
 - <a href="https://github.com/n3rada/GraphSpy/commit/9dc2f0276b994423d289f287603285efab58be7b">9dc2f02</a>
 - <a href="https://github.com/n3rada/impacket/commit/9c2d8b61ee9f13dc93744f36748bd4f49a5e9bd5">9c2d8b6</a>
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/f2a0a57f6ad3703823fc19cf38da59cfee9e86a1">f2a0a57</a>
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/f26a5135ab00a382540c5410bea16b9bdbc3b500">f26a513</a>
+- <a href="https://github.com/n3rada/mssqlclient-ng/commit/8fa7cf9b3078faa7ffd4b4a927ea3dea16809c4f">8fa7cf9</a>
 - <a href="https://github.com/n3rada/mssqlclient-ng/commit/c0af33ed1783b33c9bacb3f069cef96d4f2aebdf">c0af33e</a>
 - <a href="https://github.com/n3rada/MSSQLand/commit/622b8a5e76cf48700500e0762e4f4b9867a5693e">622b8a5</a>
 - <a href="https://github.com/n3rada/MSSQLand/commit/064a51fdc173f178d0675cf824e88bb60158575d">064a51f</a>
