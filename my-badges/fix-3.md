@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/evil-winrm-py/commit/6a331171370e04a50ef541efea5cd2e4a17c3633">6a33117</a>: fix: handle KeyboardInterrupt and EOFError in interactive shell prompt
-- <a href="https://github.com/n3rada/evil-winrm-py/commit/236395907f25b0d413310900af2eb6d632e35fb6">2363959</a>: fix: change logging level to debug for session management in _TransportHTTPEWP
-- <a href="https://github.com/n3rada/evil-winrm-py/commit/57548b13655bcf96fe9bb41af7ade4c121f2dc21">57548b1</a>: fix: enhance logging messages for session management in _TransportHTTPEWP
+- <a href="https://github.com/n3rada/msgraphx/commit/6cd260802fe1dfc8328db6a58a8d03ae2b0567aa">6cd2608</a>: fix(sp download): show file info on successful download
+- <a href="https://github.com/n3rada/msgraphx/commit/b5b28ec59b597c620e045b9243331b304c800312">b5b28ec</a>: fix(sp download): print full file path after download
+- <a href="https://github.com/n3rada/msgraphx/commit/c104f90df14fb2d1727b31f889a484022312ea39">c104f90</a>: fix(sp search): cache partial results on Ctrl-C via try/except/finally
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
