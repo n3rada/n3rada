@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/n3rada/msgraphx/commit/96643f60390da86cab00ad6d205d3928190884a6">96643f6</a>
+- <a href="https://github.com/n3rada/msgraphx/commit/d04a3c01553be644d37a879397b0689c45a4ce6f">d04a3c0</a>
 - <a href="https://github.com/n3rada/msgraphx/commit/b28762b880642b748e881e791578b6812e9d7979">b28762b</a>
 - <a href="https://github.com/n3rada/msgraphx/commit/6d6d741171727e32ce3c44f452f6da45efb8390b">6d6d741</a>
 - <a href="https://github.com/n3rada/msgraphx/commit/23b7f42fd8afe39c27b489cae4cf3032dd8b8ef0">23b7f42</a>
