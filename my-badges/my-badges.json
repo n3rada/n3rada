@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 927 times)\n2. add (used 771 times)\n3. remove (used 421 times)\n4. logging (used 406 times)\n5. enhance (used 400 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 912 times)\n2. add (used 760 times)\n3. remove (used 408 times)\n4. logging (used 402 times)\n5. enhance (used 395 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★29</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★14</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★13</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★5</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★3</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★3</a>\n* <a href=\"https://github.com/n3rada/mssqlclient-ng\">n3rada/mssqlclient-ng: ★3</a>\n* <a href=\"https://github.com/n3rada/n3rada\">n3rada/n3rada: ★1</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/msauth-browser\">n3rada/msauth-browser: ★1</a>\n* <a href=\"https://github.com/n3rada/NetExec-Wiki\">n3rada/NetExec-Wiki: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★29</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★14</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★13</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★5</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★3</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★3</a>\n* <a href=\"https://github.com/n3rada/mssqlclient-ng\">n3rada/mssqlclient-ng: ★3</a>\n* <a href=\"https://github.com/n3rada/n3rada\">n3rada/n3rada: ★1</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/msauth-browser\">n3rada/msauth-browser: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -171,7 +171,7 @@
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/09d89653f32b64e4525252408c48f70413c74296\">09d8965</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/bbee140e99ad8be4de126edb979adb15caf60d5f\">bbee140</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/d00298fd09e9262d0509f0c904c5ccc3600993ae\">d00298f</a>\n- <a href=\"https://github.com/n3rada/NetExec/commit/f7dcd5f286eff67dc068f9b9fccf97c1dbfcc1f2\">f7dcd5f</a>\n- <a href=\"https://github.com/n3rada/NetExec/commit/ea46524e8768cc1fe1a42c9b2472b8d65a95e7a3\">ea46524</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/031c103f7f71048c368b57288cda83035ed83453\">031c103</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/09d89653f32b64e4525252408c48f70413c74296\">09d8965</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/bbee140e99ad8be4de126edb979adb15caf60d5f\">bbee140</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/d00298fd09e9262d0509f0c904c5ccc3600993ae\">d00298f</a>\n- <a href=\"https://github.com/n3rada/toboggan/commit/031c103f7f71048c368b57288cda83035ed83453\">031c103</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {
