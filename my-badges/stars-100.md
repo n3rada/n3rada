@@ -6,16 +6,17 @@ Repos:
 
 * <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★29</a>
 * <a href="https://github.com/theogobinet/Katsumi">theogobinet/Katsumi: ★22</a>
-* <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★14</a>
+* <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★15</a>
 * <a href="https://github.com/n3rada/DirtyPipe">n3rada/DirtyPipe: ★13</a>
 * <a href="https://github.com/n3rada/powerspace">n3rada/powerspace: ★6</a>
 * <a href="https://github.com/n3rada/SharpNotesReader">n3rada/SharpNotesReader: ★5</a>
+* <a href="https://github.com/n3rada/sapsxpg">n3rada/sapsxpg: ★4</a>
 * <a href="https://github.com/n3rada/Invoke-KeePassBackup">n3rada/Invoke-KeePassBackup: ★3</a>
-* <a href="https://github.com/n3rada/sapsxpg">n3rada/sapsxpg: ★3</a>
 * <a href="https://github.com/n3rada/mssqlclient-ng">n3rada/mssqlclient-ng: ★3</a>
-* <a href="https://github.com/n3rada/n3rada">n3rada/n3rada: ★1</a>
+* <a href="https://github.com/n3rada/n3rada">n3rada/n3rada: ★2</a>
 * <a href="https://github.com/n3rada/advisories">n3rada/advisories: ★1</a>
 * <a href="https://github.com/n3rada/msauth-browser">n3rada/msauth-browser: ★1</a>
+* <a href="https://github.com/n3rada/GraphSpy">n3rada/GraphSpy: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
