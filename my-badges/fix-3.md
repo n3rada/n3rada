@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/GraphSpy/commit/bb516ef1a23632b71f4fb04a56493fe2150668bf">bb516ef</a>: fix: remove unused imports
-- <a href="https://github.com/n3rada/GraphSpy/commit/a8b1b415700b8d9ecae161fc469cefef12e9a61f">a8b1b41</a>: fix: remove unused import
-- <a href="https://github.com/n3rada/GraphSpy/commit/629a42a4b334bac440b03f94b0525b7f44cca3c8">629a42a</a>: fix: use cookies in make_request
+- <a href="https://github.com/n3rada/msgraphx/commit/6cd260802fe1dfc8328db6a58a8d03ae2b0567aa">6cd2608</a>: fix(sp download): show file info on successful download
+- <a href="https://github.com/n3rada/msgraphx/commit/b5b28ec59b597c620e045b9243331b304c800312">b5b28ec</a>: fix(sp download): print full file path after download
+- <a href="https://github.com/n3rada/msgraphx/commit/c104f90df14fb2d1727b31f889a484022312ea39">c104f90</a>: fix(sp search): cache partial results on Ctrl-C via try/except/finally
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
