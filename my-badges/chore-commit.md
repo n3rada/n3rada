@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/msgraphx/commit/a18d71bcc2ec2cc98f2494fb602261dadce71aa5">a18d71b</a>: chore: suppress third-party DeprecationWarnings in pytest
+- <a href="https://github.com/n3rada/sfmap/commit/0a55e01c1ee6a0c015e8fefc4866e97bd57d5cf9">0a55e01</a>: chore: adjust project
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
