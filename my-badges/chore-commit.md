@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/sfmap/commit/0a55e01c1ee6a0c015e8fefc4866e97bd57d5cf9">0a55e01</a>: chore: adjust project
+- <a href="https://github.com/n3rada/sfmap/commit/18d53e9069efeb45a0f5d4c3913f9dedef701a91">18d53e9</a>: chore: remove unused imports in content and graphql modules
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
