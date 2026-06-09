@@ -2,7 +2,7 @@
 
 ## 📦 Toolbox
 
-A condensed mix of interesting, even indispensable tools
+A concise selection of interesting, if not essential—tools, devised with a bit of ingenuity and a touch too much spare time.
 
 ###  Your RCE Companion
 
