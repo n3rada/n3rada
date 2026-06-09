@@ -1,9 +1,5 @@
 # 👀
 
-<div style="padding: 10px;">
-<strong>📫 Reach Me At:</strong> <code>/dev/null</code> - or find your way to.
-</div>
-
 ## 📦 Toolbox
 
 ###  Your RCE Companion
