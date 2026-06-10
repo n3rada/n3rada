@@ -40,6 +40,8 @@ Commits:
 - <a href="https://github.com/n3rada/mssqlclient-ng/commit/f26a5135ab00a382540c5410bea16b9bdbc3b500">f26a513</a>
 - <a href="https://github.com/n3rada/mssqlclient-ng/commit/8fa7cf9b3078faa7ffd4b4a927ea3dea16809c4f">8fa7cf9</a>
 - <a href="https://github.com/n3rada/mssqlclient-ng/commit/c0af33ed1783b33c9bacb3f069cef96d4f2aebdf">c0af33e</a>
+- <a href="https://github.com/n3rada/MSSQLand/commit/37dd25df946b08af35e358e37a8f7ad540cf6969">37dd25d</a>
+- <a href="https://github.com/n3rada/MSSQLand/commit/092cdded5fb74731508d571eaadae7311a111a15">092cdde</a>
 - <a href="https://github.com/n3rada/MSSQLand/commit/85029d8549acfe54d27eb4291bbcde2065b4403a">85029d8</a>
 - <a href="https://github.com/n3rada/MSSQLand/commit/09610bdf92a32ec8e3808a550a575d5592ef73a5">09610bd</a>
 - <a href="https://github.com/n3rada/MSSQLand/commit/d24113f0d8be22c1274ed2aac04d2a32f73365ef">d24113f</a>
