@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 926 times)\n2. add (used 797 times)\n3. remove (used 419 times)\n4. logging (used 406 times)\n5. enhance (used 395 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 926 times)\n2. add (used 803 times)\n3. remove (used 426 times)\n4. logging (used 408 times)\n5. enhance (used 395 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,21 +31,21 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★31</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★22</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★15</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★13</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★5</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★4</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★3</a>\n* <a href=\"https://github.com/n3rada/mssqlclient-ng\">n3rada/mssqlclient-ng: ★3</a>\n* <a href=\"https://github.com/n3rada/n3rada\">n3rada/n3rada: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/msauth-browser\">n3rada/msauth-browser: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★31</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★21</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★15</a>\n* <a href=\"https://github.com/n3rada/DirtyPipe\">n3rada/DirtyPipe: ★13</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★5</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★4</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★3</a>\n* <a href=\"https://github.com/n3rada/mssqlclient-ng\">n3rada/mssqlclient-ng: ★3</a>\n* <a href=\"https://github.com/n3rada/n3rada\">n3rada/n3rada: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/msauth-browser\">n3rada/msauth-browser: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/sfmap/commit/6a9eddcb364c62ffb9c37c46b9499703d90e560c\">6a9eddc</a>\n- <a href=\"https://github.com/n3rada/sfmap/commit/06d4d3ce7acd1b7b04254d8bba69bf4c493e62d9\">06d4d3c</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/e8f57b68ff0f75da6321f4eb4a41891c0345c1bb\">e8f57b6</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/b88e7938e4901836a1d36d2f72afe9e3c80ab9a7\">b88e793</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/c61c3ceb230131c7524930a0650c86f26b08e9f0\">c61c3ce</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/af5f07a6da274d74c5ea9b76de16d5e626cebc2f\">af5f07a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/56058ca3d40182c324a9fb9c0d591f44697349c9\">56058ca</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/e8f57b68ff0f75da6321f4eb4a41891c0345c1bb\">e8f57b6</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/b88e7938e4901836a1d36d2f72afe9e3c80ab9a7\">b88e793</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/c61c3ceb230131c7524930a0650c86f26b08e9f0\">c61c3ce</a>\n- <a href=\"https://github.com/n3rada/n3rada/commit/af5f07a6da274d74c5ea9b76de16d5e626cebc2f\">af5f07a</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/5d3b4660566166017d50d016f95afbcf9f31cded\">5d3b466</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/sfmap/commit/2456e283af847301e3a320341f15453df9024742\">2456e28</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/b599df86d15c5368a02cacc87d77bcb24207d6dc\">b599df8</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/55f7609dcd4c0416279bad80a957c72927984025\">55f7609</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c5c679e9230fb76fdf024f96c648b9f105b4e911\">c5c679e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/fe29db933b3b35cb3408fa022908f18bffca735c\">fe29db9</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9354666e3cf768e5575fa6eb9c168f812fc985e3\">9354666</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/b599df86d15c5368a02cacc87d77bcb24207d6dc\">b599df8</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/55f7609dcd4c0416279bad80a957c72927984025\">55f7609</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c5c679e9230fb76fdf024f96c648b9f105b4e911\">c5c679e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/fe29db933b3b35cb3408fa022908f18bffca735c\">fe29db9</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9354666e3cf768e5575fa6eb9c168f812fc985e3\">9354666</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/fcac2477f9e94bf7fccc0fb0e626136182d7ced7\">fcac247</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -178,7 +178,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/sfmap/commit/18d53e9069efeb45a0f5d4c3913f9dedef701a91\">18d53e9</a>: chore: remove unused imports in content and graphql modules",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/sfmap/commit/84b5e395b5505995ecb526be920ec8becc90967a\">84b5e39</a>: chore: remove unused imports in content and graphql modules",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -241,7 +241,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/1d901fc6c096c55c5a33d42aa52e2d48a125035d\">1d901fc</a>\n- <a href=\"https://github.com/n3rada/sfmap/commit/2456e283af847301e3a320341f15453df9024742\">2456e28</a>\n- <a href=\"https://github.com/n3rada/sfmap/commit/432c6e1a3caefe4f2337af113d16428f0315adc8\">432c6e1</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/8e691bbf705f156d666ad82fcaab318363cced0f\">8e691bb</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/a4ef211bda2a158d8e4b522f1c8ebcdcfa59d769\">a4ef211</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/08b019f50b0f0625de14e44aaf12bfd45b801075\">08b019f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/sfmap/commit/0f0cda8e39767b4de75c5b1baeddcd8b28641624\">0f0cda8</a>\n- <a href=\"https://github.com/n3rada/sfmap/commit/1477e1c2ce27260a4e7f4984d32adc4f259f969a\">1477e1c</a>\n- <a href=\"https://github.com/n3rada/sfmap/commit/8c56e4ad0503694723a376ae3663f8badfb951a6\">8c56e4a</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/1d901fc6c096c55c5a33d42aa52e2d48a125035d\">1d901fc</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/8e691bbf705f156d666ad82fcaab318363cced0f\">8e691bb</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/a4ef211bda2a158d8e4b522f1c8ebcdcfa59d769\">a4ef211</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {

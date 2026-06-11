@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★31</a>
-* <a href="https://github.com/theogobinet/Katsumi">theogobinet/Katsumi: ★22</a>
+* <a href="https://github.com/theogobinet/Katsumi">theogobinet/Katsumi: ★21</a>
 * <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★15</a>
 * <a href="https://github.com/n3rada/DirtyPipe">n3rada/DirtyPipe: ★13</a>
 * <a href="https://github.com/n3rada/powerspace">n3rada/powerspace: ★6</a>
