@@ -8,10 +8,6 @@ A concise selection of interesting, if not essential, tools. Devised with a bit 
 
 Try [toboggan](https://github.com/n3rada/toboggan.git) once and you will never want anything else for RCE during security assessments! It automatically adapts to diverse Linux environments (including AS/400) through intelligent binary detection (BusyBox, custom paths) and provides built-in actions for file transfers and post-exploitation tasks.
 
-### Salesforce Experience Cloud
-
-Salesforce portals are a class of target that existing tools barely scratch. Guest user enumeration, REST surface coverage, IDOR probing across sessions, and a deliverable-ready report all require stitching together multiple manual steps. [sfmap](https://github.com/n3rada/sfmap) does it in one command.
-
 ### M365
 
 - [msauth-browser](https://github.com/n3rada/msauth-browser): A Python 3 tool that uses the Playwright browser automation library to extract Microsoft OAuth tokens. Ideal when you need to authenticate as a user and retrieve their login tokens in order to send emails, for example.
@@ -27,6 +23,10 @@ These two tools are designed to **simplify complex T-SQL interactions** for Micr
 ### SAP
 
 If you have ever worked with SAP during a penetration test, you know how cumbersome using `SXPG_CALL_SYSTEM` on a SAP server can be, [sapsxpg](https://github.com/n3rada/sapsxpg.git) is for you.
+
+### Salesforce Experience Cloud
+
+Salesforce portals are a class of target that existing tools barely scratch. Guest user enumeration, REST surface coverage, IDOR probing across sessions, and a deliverable-ready report all require stitching together multiple manual steps. [sfmap](https://github.com/n3rada/sfmap) does it in one command.
 
 ## 🃏 GitHub Badges
 
