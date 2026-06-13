@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/msgraphx/commit/9f50945784be212321bd925885a721d4dfd0eaf1">9f50945</a>: fix(teams/show): match query against individual name words for accurate scoring
-- <a href="https://github.com/n3rada/msgraphx/commit/068f8a321b2dac83c733848bcd0e6d4714f59a3a">068f8a3</a>: fix(teams/show): rank chat matches by quality to avoid false substring hits
+- <a href="https://github.com/n3rada/msgraphx/commit/b94692f15a7a4df400065364bfbb31f2d6f725c5">b94692f</a>: fix(output): clean importance format, emit [] on empty results, add JSON to contacts modules
+- <a href="https://github.com/n3rada/msgraphx/commit/6a9e9d590ee8720c0bf99d5aa8269d99f58d2a86">6a9e9d5</a>: fix(aad): use explicit field extraction for --json output instead of serialize_object
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

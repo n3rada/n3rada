@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/sfmap/commit/84b5e395b5505995ecb526be920ec8becc90967a">84b5e39</a>: chore: remove unused imports in content and graphql modules
+- <a href="https://github.com/n3rada/sfmap/commit/a77f4f95f38631085d4dad254ce7c8739fc5c362">a77f4f9</a>: chore(gitignore): add burp.txt
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
