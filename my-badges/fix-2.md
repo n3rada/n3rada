@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/msgraphx/commit/b94692f15a7a4df400065364bfbb31f2d6f725c5">b94692f</a>: fix(output): clean importance format, emit [] on empty results, add JSON to contacts modules
-- <a href="https://github.com/n3rada/msgraphx/commit/6a9e9d590ee8720c0bf99d5aa8269d99f58d2a86">6a9e9d5</a>: fix(aad): use explicit field extraction for --json output instead of serialize_object
+- <a href="https://github.com/n3rada/msgraphx/commit/d1a6d195b811761c64fa42a271994413c3aa5d75">d1a6d19</a>: fix(query): preserve @odata.* keys when --trace is active
+- <a href="https://github.com/n3rada/msgraphx/commit/9f4bcce720c0c1ca71b51b8b0cb5d1df30b6b78f">9f4bcce</a>: fix(query): only strip @odata.* keys in --json/--ndjson, keep them in console output
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
