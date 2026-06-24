@@ -1,7 +1,5 @@
 ## 📦 Toolbox
 
-A concise selection of interesting, if not essential, tools. Devised with a bit of ingenuity and a touch too much spare time.
-
 ###  Your RCE Companion
 
 Try [toboggan](https://github.com/n3rada/toboggan.git) once and you will never want anything else for RCE during security assessments! It automatically adapts to diverse Linux environments (including AS/400) through intelligent binary detection (BusyBox, custom paths) and provides built-in actions for file transfers and post-exploitation tasks.
