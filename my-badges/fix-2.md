@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/n3rada/msgraphx/commit/d1a6d195b811761c64fa42a271994413c3aa5d75">d1a6d19</a>: fix(query): preserve @odata.* keys when --trace is active
-- <a href="https://github.com/n3rada/msgraphx/commit/9f4bcce720c0c1ca71b51b8b0cb5d1df30b6b78f">9f4bcce</a>: fix(query): only strip @odata.* keys in --json/--ndjson, keep them in console output
+- <a href="https://github.com/n3rada/msgraphx/commit/d818eb8a43e135205dbdeabf2fead61d42363ce6">d818eb8</a>: fix(teams/send): fall back to mail filter when UPN lookup fails
+- <a href="https://github.com/n3rada/msgraphx/commit/83ccd73f85d9e6d0d851ba21cd23780d04eb6644">83ccd73</a>: fix(teams/send): reject self-DM to avoid duplicate member 400
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

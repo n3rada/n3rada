@@ -13,6 +13,7 @@ Commits:
 - <a href="https://github.com/n3rada/msgraphx/commit/b3520b8a5b862922ca272158bc48575946d59055">b3520b8</a>
 - <a href="https://github.com/n3rada/msgraphx/commit/23b7f42fd8afe39c27b489cae4cf3032dd8b8ef0">23b7f42</a>
 - <a href="https://github.com/n3rada/msgraphx/commit/9801b1de81590bae1eb79417584a70216b25eb6c">9801b1d</a>
+- <a href="https://github.com/n3rada/impacket/commit/b5dc23b3421e3144599ea2e4e2382b6959e4bf86">b5dc23b</a>
 - <a href="https://github.com/n3rada/impacket/commit/9c2d8b61ee9f13dc93744f36748bd4f49a5e9bd5">9c2d8b6</a>
 - <a href="https://github.com/n3rada/mssqlclient-ng/commit/01b1bb949f49b2cdcc30f704d79882e42f783824">01b1bb9</a>
 - <a href="https://github.com/n3rada/mssqlclient-ng/commit/bda3d283d10ba1aae66d195a126a5c57538ed689">bda3d28</a>
