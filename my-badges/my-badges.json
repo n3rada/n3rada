@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 928 times)\n2. add (used 852 times)\n3. remove (used 437 times)\n4. logging (used 409 times)\n5. enhance (used 395 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 929 times)\n2. add (used 853 times)\n3. remove (used 437 times)\n4. logging (used 409 times)\n5. enhance (used 395 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,14 +31,14 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★68</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★32</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★21</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★16</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★5</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★4</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★3</a>\n* <a href=\"https://github.com/n3rada/mssqlclient-ng\">n3rada/mssqlclient-ng: ★3</a>\n* <a href=\"https://github.com/n3rada/n3rada\">n3rada/n3rada: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/msauth-browser\">n3rada/msauth-browser: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/n3rada/MSSQLand\">n3rada/MSSQLand: ★69</a>\n* <a href=\"https://github.com/n3rada/ropcatalog\">n3rada/ropcatalog: ★32</a>\n* <a href=\"https://github.com/theogobinet/Katsumi\">theogobinet/Katsumi: ★21</a>\n* <a href=\"https://github.com/n3rada/toboggan\">n3rada/toboggan: ★16</a>\n* <a href=\"https://github.com/n3rada/powerspace\">n3rada/powerspace: ★6</a>\n* <a href=\"https://github.com/n3rada/SharpNotesReader\">n3rada/SharpNotesReader: ★5</a>\n* <a href=\"https://github.com/n3rada/sapsxpg\">n3rada/sapsxpg: ★4</a>\n* <a href=\"https://github.com/n3rada/Invoke-KeePassBackup\">n3rada/Invoke-KeePassBackup: ★3</a>\n* <a href=\"https://github.com/n3rada/mssqlclient-ng\">n3rada/mssqlclient-ng: ★3</a>\n* <a href=\"https://github.com/n3rada/n3rada\">n3rada/n3rada: ★2</a>\n* <a href=\"https://github.com/n3rada/advisories\">n3rada/advisories: ★1</a>\n* <a href=\"https://github.com/n3rada/msauth-browser\">n3rada/msauth-browser: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/msgraphx/commit/c3faa329a7505ab56f324d90a97b5c4680f38f72\">c3faa32</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/ffada2c4d7f9c99e99e651441e5c596a3b1cc8a2\">ffada2c</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/96693a02c44e3f4484e753c1cb0c495be7e04544\">96693a0</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/b4e0c0e4e6f5bd790a218cb401a47993e8eb648a\">b4e0c0e</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/af85d90c26959c153c06fb3dbd364b876b1d6858\">af85d90</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/304f298cd3045c484a561ecfd8897861936359b2\">304f298</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/msgraphx/commit/63f4cd8a34cfc4ba356b1196c30418db67ff5ea6\">63f4cd8</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/5f5c8a2304de828f44d7c90981c8a2380a412172\">5f5c8a2</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/65ce7dd4766dee2058b86c5f274cc61e2273f3c3\">65ce7dd</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/03a9f055da98e2e7c474937b6310981cb6ec1260\">03a9f05</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/c66fc669317531c35a0d8cfe3ec242283f9c2c86\">c66fc66</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/50fe57e9a5e97bc11d3456c4f99ae77149f72bd0\">50fe57e</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
