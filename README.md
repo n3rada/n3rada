@@ -20,7 +20,7 @@ These two tools are designed to **simplify complex T-SQL interactions** for Micr
 
 #### [Salesforce](https://www.salesforce.com/) Experience Cloud
 
-Salesforce portals are a class of target that existing tools barely scratch. Guest user enumeration, REST surface coverage, IDOR probing across sessions, and a deliverable-ready report all require stitching together multiple manual steps. [sfmap](https://github.com/n3rada/sfmap) does it in one command.
+[sfmap](https://github.com/n3rada/sfmap) could be useful to assess the security of Salesforce portals.
 
 #### [SAP](https://www.sap.com/)
 
