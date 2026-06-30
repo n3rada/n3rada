@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 931 times)\n2. add (used 855 times)\n3. remove (used 438 times)\n4. logging (used 409 times)\n5. enhance (used 395 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 933 times)\n2. add (used 857 times)\n3. remove (used 438 times)\n4. logging (used 409 times)\n5. enhance (used 395 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/msgraphx/commit/def4313fd86501f901307afc775f9dca021d87de\">def4313</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/b599df86d15c5368a02cacc87d77bcb24207d6dc\">b599df8</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/55f7609dcd4c0416279bad80a957c72927984025\">55f7609</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c5c679e9230fb76fdf024f96c648b9f105b4e911\">c5c679e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/fe29db933b3b35cb3408fa022908f18bffca735c\">fe29db9</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/9354666e3cf768e5575fa6eb9c168f812fc985e3\">9354666</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/n3rada/sfmap/commit/09ef28b7ca9ecb39d58f09e03c74796c7f6e22a0\">09ef28b</a>\n- <a href=\"https://github.com/n3rada/msgraphx/commit/def4313fd86501f901307afc775f9dca021d87de\">def4313</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/b599df86d15c5368a02cacc87d77bcb24207d6dc\">b599df8</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/55f7609dcd4c0416279bad80a957c72927984025\">55f7609</a>\n- <a href=\"https://github.com/n3rada/mssqlclient-ng/commit/c5c679e9230fb76fdf024f96c648b9f105b4e911\">c5c679e</a>\n- <a href=\"https://github.com/n3rada/MSSQLand/commit/fe29db933b3b35cb3408fa022908f18bffca735c\">fe29db9</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
