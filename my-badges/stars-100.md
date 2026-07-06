@@ -10,7 +10,7 @@ Repos:
 * <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★16</a>
 * <a href="https://github.com/n3rada/powerspace">n3rada/powerspace: ★6</a>
 * <a href="https://github.com/n3rada/SharpNotesReader">n3rada/SharpNotesReader: ★5</a>
-* <a href="https://github.com/n3rada/sapsxpg">n3rada/sapsxpg: ★4</a>
+* <a href="https://github.com/n3rada/sapsxpg">n3rada/sapsxpg: ★5</a>
 * <a href="https://github.com/n3rada/Invoke-KeePassBackup">n3rada/Invoke-KeePassBackup: ★3</a>
 * <a href="https://github.com/n3rada/mssqlclient-ng">n3rada/mssqlclient-ng: ★3</a>
 * <a href="https://github.com/n3rada/n3rada">n3rada/n3rada: ★2</a>
