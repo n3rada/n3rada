@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/n3rada/MSSQLand">n3rada/MSSQLand: ★72</a>
+* <a href="https://github.com/n3rada/MSSQLand">n3rada/MSSQLand: ★71</a>
 * <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★32</a>
 * <a href="https://github.com/theogobinet/Katsumi">theogobinet/Katsumi: ★21</a>
 * <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★16</a>
