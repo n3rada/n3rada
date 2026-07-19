@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/ungdev/ScribUTT">ungdev/ScribUTT: ★73</a>
-* <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★32</a>
+* <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★33</a>
 * <a href="https://github.com/theogobinet/Katsumi">theogobinet/Katsumi: ★21</a>
 * <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★16</a>
 * <a href="https://github.com/n3rada/powerspace">n3rada/powerspace: ★6</a>
