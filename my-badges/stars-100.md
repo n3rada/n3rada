@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/n3rada/ropcatalog">n3rada/ropcatalog: ★33</a>
 * <a href="https://github.com/theogobinet/Katsumi">theogobinet/Katsumi: ★21</a>
 * <a href="https://github.com/n3rada/toboggan">n3rada/toboggan: ★16</a>
-* <a href="https://github.com/n3rada/powerspace">n3rada/powerspace: ★6</a>
+* <a href="https://github.com/n3rada/powerspace">n3rada/powerspace: ★7</a>
 * <a href="https://github.com/n3rada/SharpNotesReader">n3rada/SharpNotesReader: ★5</a>
 * <a href="https://github.com/n3rada/sapsxpg">n3rada/sapsxpg: ★5</a>
 * <a href="https://github.com/n3rada/Invoke-KeePassBackup">n3rada/Invoke-KeePassBackup: ★3</a>
