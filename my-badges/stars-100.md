@@ -11,11 +11,12 @@ Repos:
 * <a href="https://github.com/n3rada/powerspace">n3rada/powerspace: ★7</a>
 * <a href="https://github.com/n3rada/SharpNotesReader">n3rada/SharpNotesReader: ★5</a>
 * <a href="https://github.com/n3rada/sapsxpg">n3rada/sapsxpg: ★5</a>
+* <a href="https://github.com/n3rada/mssqlclient-ng">n3rada/mssqlclient-ng: ★4</a>
 * <a href="https://github.com/n3rada/Invoke-KeePassBackup">n3rada/Invoke-KeePassBackup: ★3</a>
-* <a href="https://github.com/n3rada/mssqlclient-ng">n3rada/mssqlclient-ng: ★3</a>
 * <a href="https://github.com/n3rada/n3rada">n3rada/n3rada: ★2</a>
 * <a href="https://github.com/n3rada/advisories">n3rada/advisories: ★1</a>
 * <a href="https://github.com/n3rada/msauth-browser">n3rada/msauth-browser: ★1</a>
+* <a href="https://github.com/n3rada/msgraphx">n3rada/msgraphx: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
